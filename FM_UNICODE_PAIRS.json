@@ -1,0 +1,6526 @@
+[
+  {
+    "legacy": "$",
+    "unicode": "/"
+  },
+  {
+    "legacy": "^",
+    "unicode": "("
+  },
+  {
+    "legacy": "&",
+    "unicode": ")"
+  },
+  {
+    "legacy": "¬",
+    "unicode": "+"
+  },
+  {
+    "legacy": "]",
+    "unicode": "%"
+  },
+  {
+    "legacy": "z",
+    "unicode": "'"
+  },
+  {
+    "legacy": "æ",
+    "unicode": "!"
+  },
+  {
+    "legacy": "˜",
+    "unicode": "\""
+  },
+  {
+    "legacy": "\"",
+    "unicode": ","
+  },
+  {
+    "legacy": "(",
+    "unicode": ":"
+  },
+  {
+    "legacy": "'",
+    "unicode": "."
+  },
+  {
+    "legacy": "˜",
+    "unicode": "”"
+  },
+  {
+    "legacy": "Z",
+    "unicode": "’"
+  },
+  {
+    "legacy": "Y%s",
+    "unicode": "ශ්‍රි"
+  },
+  {
+    "legacy": "›",
+    "unicode": "ශ්‍රී"
+  },
+  {
+    "legacy": "w",
+    "unicode": "අ"
+  },
+  {
+    "legacy": "wd",
+    "unicode": "ආ"
+  },
+  {
+    "legacy": "we",
+    "unicode": "ඇ"
+  },
+  {
+    "legacy": "wE",
+    "unicode": "ඈ"
+  },
+  {
+    "legacy": "b",
+    "unicode": "ඉ"
+  },
+  {
+    "legacy": "B",
+    "unicode": "ඊ"
+  },
+  {
+    "legacy": "W",
+    "unicode": "උ"
+  },
+  {
+    "legacy": "W!",
+    "unicode": "ඌ"
+  },
+  {
+    "legacy": "R",
+    "unicode": "ඍ"
+  },
+  {
+    "legacy": "RD",
+    "unicode": "ඎ"
+  },
+  {
+    "legacy": "Ì",
+    "unicode": "ඏ"
+  },
+  {
+    "legacy": "Ï",
+    "unicode": "ඐ"
+  },
+  {
+    "legacy": "t",
+    "unicode": "එ"
+  },
+  {
+    "legacy": "tA",
+    "unicode": "ඒ"
+  },
+  {
+    "legacy": "ft",
+    "unicode": "ඓ"
+  },
+  {
+    "legacy": "T",
+    "unicode": "ඔ"
+  },
+  {
+    "legacy": "´",
+    "unicode": "ඕ"
+  },
+  {
+    "legacy": "T!",
+    "unicode": "ඖ"
+  },
+  {
+    "legacy": "wx",
+    "unicode": "අං"
+  },
+  {
+    "legacy": "w#",
+    "unicode": "අඃ"
+  },
+  {
+    "legacy": "lHd",
+    "unicode": "ක්‍යා"
+  },
+  {
+    "legacy": "flHd",
+    "unicode": "ක්‍යො"
+  },
+  {
+    "legacy": "flHda",
+    "unicode": "ක්‍යෝ"
+  },
+  {
+    "legacy": "l%d",
+    "unicode": "ක්‍රා"
+  },
+  {
+    "legacy": "l%e",
+    "unicode": "ක්‍රැ"
+  },
+  {
+    "legacy": "l%E",
+    "unicode": "ක්‍රෑ"
+  },
+  {
+    "legacy": "l%s",
+    "unicode": "ක්‍රි"
+  },
+  {
+    "legacy": "l%S",
+    "unicode": "ක්‍රී"
+  },
+  {
+    "legacy": "fl%",
+    "unicode": "ක්‍රෙ"
+  },
+  {
+    "legacy": "fl%a",
+    "unicode": "ක්‍රේ"
+  },
+  {
+    "legacy": "fl%d",
+    "unicode": "ක්‍රො"
+  },
+  {
+    "legacy": "fl%da",
+    "unicode": "ක්‍රෝ"
+  },
+  {
+    "legacy": "ffl%",
+    "unicode": "ක්‍රෛ"
+  },
+  {
+    "legacy": "fl%!",
+    "unicode": "ක්‍රෞ"
+  },
+  {
+    "legacy": "l%x",
+    "unicode": "ක්‍රං"
+  },
+  {
+    "legacy": "l%#",
+    "unicode": "ක්‍රඃ"
+  },
+  {
+    "legacy": "lH",
+    "unicode": "ක්‍ය"
+  },
+  {
+    "legacy": "l%",
+    "unicode": "ක්‍ර"
+  },
+  {
+    "legacy": "la",
+    "unicode": "ක්"
+  },
+  {
+    "legacy": "ld",
+    "unicode": "කා"
+  },
+  {
+    "legacy": "lE",
+    "unicode": "කෑ"
+  },
+  {
+    "legacy": "ls",
+    "unicode": "කි"
+  },
+  {
+    "legacy": "lS",
+    "unicode": "කී"
+  },
+  {
+    "legacy": "l=",
+    "unicode": "කු"
+  },
+  {
+    "legacy": "l+",
+    "unicode": "කූ"
+  },
+  {
+    "legacy": "lD",
+    "unicode": "කෘ"
+  },
+  {
+    "legacy": "lDD",
+    "unicode": "කෲ"
+  },
+  {
+    "legacy": "l!",
+    "unicode": "කෟ"
+  },
+  {
+    "legacy": "l!",
+    "unicode": "කෳ"
+  },
+  {
+    "legacy": "fl",
+    "unicode": "කෙ"
+  },
+  {
+    "legacy": "fla",
+    "unicode": "කේ"
+  },
+  {
+    "legacy": "ffl",
+    "unicode": "කෛ"
+  },
+  {
+    "legacy": "fld",
+    "unicode": "කො"
+  },
+  {
+    "legacy": "flda",
+    "unicode": "කෝ"
+  },
+  {
+    "legacy": "fl!",
+    "unicode": "කෞ"
+  },
+  {
+    "legacy": "lx",
+    "unicode": "කං"
+  },
+  {
+    "legacy": "l#",
+    "unicode": "කඃ"
+  },
+  {
+    "legacy": "l",
+    "unicode": "ක"
+  },
+  {
+    "legacy": "LHd",
+    "unicode": "ඛ්‍යා"
+  },
+  {
+    "legacy": "fLHd",
+    "unicode": "ඛ්‍යො"
+  },
+  {
+    "legacy": "fLHda",
+    "unicode": "ඛ්‍යෝ"
+  },
+  {
+    "legacy": "L%d",
+    "unicode": "ඛ්‍රා"
+  },
+  {
+    "legacy": "L%e",
+    "unicode": "ඛ්‍රැ"
+  },
+  {
+    "legacy": "L%E",
+    "unicode": "ඛ්‍රෑ"
+  },
+  {
+    "legacy": "Å%",
+    "unicode": "ඛ්‍රි"
+  },
+  {
+    "legacy": "Ç%",
+    "unicode": "ඛ්‍රී"
+  },
+  {
+    "legacy": "fL%",
+    "unicode": "ඛ්‍රෙ"
+  },
+  {
+    "legacy": "fÄ%",
+    "unicode": "ඛ්‍රේ"
+  },
+  {
+    "legacy": "fL%d",
+    "unicode": "ඛ්‍රො"
+  },
+  {
+    "legacy": "fL%da",
+    "unicode": "ඛ්‍රෝ"
+  },
+  {
+    "legacy": "ffL%",
+    "unicode": "ඛ්‍රෛ"
+  },
+  {
+    "legacy": "fL%!",
+    "unicode": "ඛ්‍රෞ"
+  },
+  {
+    "legacy": "L%x",
+    "unicode": "ඛ්‍රං"
+  },
+  {
+    "legacy": "L%#",
+    "unicode": "ඛ්‍රඃ"
+  },
+  {
+    "legacy": "LH",
+    "unicode": "ඛ්‍ය"
+  },
+  {
+    "legacy": "L%",
+    "unicode": "ඛ්‍ර"
+  },
+  {
+    "legacy": "Ä",
+    "unicode": "ඛ්"
+  },
+  {
+    "legacy": "Ld",
+    "unicode": "ඛා"
+  },
+  {
+    "legacy": "LE",
+    "unicode": "ඛෑ"
+  },
+  {
+    "legacy": "Å",
+    "unicode": "ඛි"
+  },
+  {
+    "legacy": "Ç",
+    "unicode": "ඛී"
+  },
+  {
+    "legacy": "Lq",
+    "unicode": "ඛු"
+  },
+  {
+    "legacy": "LQ",
+    "unicode": "ඛූ"
+  },
+  {
+    "legacy": "LD",
+    "unicode": "ඛෘ"
+  },
+  {
+    "legacy": "LDD",
+    "unicode": "ඛෲ"
+  },
+  {
+    "legacy": "L!",
+    "unicode": "ඛෟ"
+  },
+  {
+    "legacy": "L!",
+    "unicode": "ඛෳ"
+  },
+  {
+    "legacy": "fL",
+    "unicode": "ඛෙ"
+  },
+  {
+    "legacy": "fÄ",
+    "unicode": "ඛේ"
+  },
+  {
+    "legacy": "ffL",
+    "unicode": "ඛෛ"
+  },
+  {
+    "legacy": "fLd",
+    "unicode": "ඛො"
+  },
+  {
+    "legacy": "fLda",
+    "unicode": "ඛෝ"
+  },
+  {
+    "legacy": "fL!",
+    "unicode": "ඛෞ"
+  },
+  {
+    "legacy": "Lx",
+    "unicode": "ඛං"
+  },
+  {
+    "legacy": "L#",
+    "unicode": "ඛඃ"
+  },
+  {
+    "legacy": "L",
+    "unicode": "ඛ"
+  },
+  {
+    "legacy": ".Hd",
+    "unicode": "ග්‍යා"
+  },
+  {
+    "legacy": "f.Hd",
+    "unicode": "ග්‍යො"
+  },
+  {
+    "legacy": "f.Hda",
+    "unicode": "ග්‍යෝ"
+  },
+  {
+    "legacy": ".%d",
+    "unicode": "ග්‍රා"
+  },
+  {
+    "legacy": ".%e",
+    "unicode": "ග්‍රැ"
+  },
+  {
+    "legacy": ".%E",
+    "unicode": "ග්‍රෑ"
+  },
+  {
+    "legacy": ".%s",
+    "unicode": "ග්‍රි"
+  },
+  {
+    "legacy": ".%S",
+    "unicode": "ග්‍රී"
+  },
+  {
+    "legacy": "f.%",
+    "unicode": "ග්‍රෙ"
+  },
+  {
+    "legacy": "f.%a",
+    "unicode": "ග්‍රේ"
+  },
+  {
+    "legacy": "f.%d",
+    "unicode": "ග්‍රො"
+  },
+  {
+    "legacy": "f.%da",
+    "unicode": "ග්‍රෝ"
+  },
+  {
+    "legacy": "ff.%",
+    "unicode": "ග්‍රෛ"
+  },
+  {
+    "legacy": "f.%!",
+    "unicode": "ග්‍රෞ"
+  },
+  {
+    "legacy": ".%x",
+    "unicode": "ග්‍රං"
+  },
+  {
+    "legacy": ".%#",
+    "unicode": "ග්‍රඃ"
+  },
+  {
+    "legacy": ".H",
+    "unicode": "ග්‍ය"
+  },
+  {
+    "legacy": ".%",
+    "unicode": "ග්‍ර"
+  },
+  {
+    "legacy": ".a",
+    "unicode": "ග්"
+  },
+  {
+    "legacy": ".d",
+    "unicode": "ගා"
+  },
+  {
+    "legacy": ".E",
+    "unicode": "ගෑ"
+  },
+  {
+    "legacy": ".s",
+    "unicode": "ගි"
+  },
+  {
+    "legacy": ".S",
+    "unicode": "ගී"
+  },
+  {
+    "legacy": ".=",
+    "unicode": "ගු"
+  },
+  {
+    "legacy": ".+",
+    "unicode": "ගූ"
+  },
+  {
+    "legacy": ".D",
+    "unicode": "ගෘ"
+  },
+  {
+    "legacy": ".DD",
+    "unicode": "ගෲ"
+  },
+  {
+    "legacy": ".!",
+    "unicode": "ගෟ"
+  },
+  {
+    "legacy": ".!",
+    "unicode": "ගෳ"
+  },
+  {
+    "legacy": "f.",
+    "unicode": "ගෙ"
+  },
+  {
+    "legacy": "f.a",
+    "unicode": "ගේ"
+  },
+  {
+    "legacy": "ff.",
+    "unicode": "ගෛ"
+  },
+  {
+    "legacy": "f.d",
+    "unicode": "ගො"
+  },
+  {
+    "legacy": "f.da",
+    "unicode": "ගෝ"
+  },
+  {
+    "legacy": "f.!",
+    "unicode": "ගෞ"
+  },
+  {
+    "legacy": ".x",
+    "unicode": "ගං"
+  },
+  {
+    "legacy": ".#",
+    "unicode": "ගඃ"
+  },
+  {
+    "legacy": ".",
+    "unicode": "ග"
+  },
+  {
+    "legacy": ">Hd",
+    "unicode": "ඝ්‍යා"
+  },
+  {
+    "legacy": "f>Hd",
+    "unicode": "ඝ්‍යො"
+  },
+  {
+    "legacy": "f>Hda",
+    "unicode": "ඝ්‍යෝ"
+  },
+  {
+    "legacy": ">%d",
+    "unicode": "ඝ්‍රා"
+  },
+  {
+    "legacy": ">%e",
+    "unicode": "ඝ්‍රැ"
+  },
+  {
+    "legacy": ">%E",
+    "unicode": "ඝ්‍රෑ"
+  },
+  {
+    "legacy": ">%s",
+    "unicode": "ඝ්‍රි"
+  },
+  {
+    "legacy": ">%S",
+    "unicode": "ඝ්‍රී"
+  },
+  {
+    "legacy": "f>%",
+    "unicode": "ඝ්‍රෙ"
+  },
+  {
+    "legacy": "f>%a",
+    "unicode": "ඝ්‍රේ"
+  },
+  {
+    "legacy": "f>%d",
+    "unicode": "ඝ්‍රො"
+  },
+  {
+    "legacy": "f>%da",
+    "unicode": "ඝ්‍රෝ"
+  },
+  {
+    "legacy": "ff>%",
+    "unicode": "ඝ්‍රෛ"
+  },
+  {
+    "legacy": "f>%!",
+    "unicode": "ඝ්‍රෞ"
+  },
+  {
+    "legacy": ">%x",
+    "unicode": "ඝ්‍රං"
+  },
+  {
+    "legacy": ">%#",
+    "unicode": "ඝ්‍රඃ"
+  },
+  {
+    "legacy": ">H",
+    "unicode": "ඝ්‍ය"
+  },
+  {
+    "legacy": ">%",
+    "unicode": "ඝ්‍ර"
+  },
+  {
+    "legacy": ">a",
+    "unicode": "ඝ්"
+  },
+  {
+    "legacy": ">d",
+    "unicode": "ඝා"
+  },
+  {
+    "legacy": ">E",
+    "unicode": "ඝෑ"
+  },
+  {
+    "legacy": ">s",
+    "unicode": "ඝි"
+  },
+  {
+    "legacy": ">S",
+    "unicode": "ඝී"
+  },
+  {
+    "legacy": ">q",
+    "unicode": "ඝු"
+  },
+  {
+    "legacy": ">Q",
+    "unicode": "ඝූ"
+  },
+  {
+    "legacy": ">D",
+    "unicode": "ඝෘ"
+  },
+  {
+    "legacy": ">DD",
+    "unicode": "ඝෲ"
+  },
+  {
+    "legacy": ">!",
+    "unicode": "ඝෟ"
+  },
+  {
+    "legacy": ">!",
+    "unicode": "ඝෳ"
+  },
+  {
+    "legacy": "f>",
+    "unicode": "ඝෙ"
+  },
+  {
+    "legacy": "f>a",
+    "unicode": "ඝේ"
+  },
+  {
+    "legacy": "ff>",
+    "unicode": "ඝෛ"
+  },
+  {
+    "legacy": "f>d",
+    "unicode": "ඝො"
+  },
+  {
+    "legacy": "f>da",
+    "unicode": "ඝෝ"
+  },
+  {
+    "legacy": "f>!",
+    "unicode": "ඝෞ"
+  },
+  {
+    "legacy": ">x",
+    "unicode": "ඝං"
+  },
+  {
+    "legacy": ">#",
+    "unicode": "ඝඃ"
+  },
+  {
+    "legacy": ">",
+    "unicode": "ඝ"
+  },
+  {
+    "legacy": "ÙHd",
+    "unicode": "ඞ්‍යා"
+  },
+  {
+    "legacy": "fÙHd",
+    "unicode": "ඞ්‍යො"
+  },
+  {
+    "legacy": "fÙHda",
+    "unicode": "ඞ්‍යෝ"
+  },
+  {
+    "legacy": "Ù%d",
+    "unicode": "ඞ්‍රා"
+  },
+  {
+    "legacy": "Ù%e",
+    "unicode": "ඞ්‍රැ"
+  },
+  {
+    "legacy": "Ù%E",
+    "unicode": "ඞ්‍රෑ"
+  },
+  {
+    "legacy": "Ù%s",
+    "unicode": "ඞ්‍රි"
+  },
+  {
+    "legacy": "Ù%S",
+    "unicode": "ඞ්‍රී"
+  },
+  {
+    "legacy": "fÙ%",
+    "unicode": "ඞ්‍රෙ"
+  },
+  {
+    "legacy": "fÙ%a",
+    "unicode": "ඞ්‍රේ"
+  },
+  {
+    "legacy": "fÙ%d",
+    "unicode": "ඞ්‍රො"
+  },
+  {
+    "legacy": "fÙ%da",
+    "unicode": "ඞ්‍රෝ"
+  },
+  {
+    "legacy": "ffÙ%",
+    "unicode": "ඞ්‍රෛ"
+  },
+  {
+    "legacy": "fÙ%!",
+    "unicode": "ඞ්‍රෞ"
+  },
+  {
+    "legacy": "Ù%x",
+    "unicode": "ඞ්‍රං"
+  },
+  {
+    "legacy": "Ù%#",
+    "unicode": "ඞ්‍රඃ"
+  },
+  {
+    "legacy": "ÙH",
+    "unicode": "ඞ්‍ය"
+  },
+  {
+    "legacy": "Ù%",
+    "unicode": "ඞ්‍ර"
+  },
+  {
+    "legacy": "Ù",
+    "unicode": "ඞ්"
+  },
+  {
+    "legacy": "Ùd",
+    "unicode": "ඞා"
+  },
+  {
+    "legacy": "ÙE",
+    "unicode": "ඞෑ"
+  },
+  {
+    "legacy": "Ùs",
+    "unicode": "ඞි"
+  },
+  {
+    "legacy": "ÙS",
+    "unicode": "ඞී"
+  },
+  {
+    "legacy": "Ùq",
+    "unicode": "ඞු"
+  },
+  {
+    "legacy": "ÙQ",
+    "unicode": "ඞූ"
+  },
+  {
+    "legacy": "ÙD",
+    "unicode": "ඞෘ"
+  },
+  {
+    "legacy": "ÙDD",
+    "unicode": "ඞෲ"
+  },
+  {
+    "legacy": "Ù!",
+    "unicode": "ඞෟ"
+  },
+  {
+    "legacy": "Ù!",
+    "unicode": "ඞෳ"
+  },
+  {
+    "legacy": "fÙ",
+    "unicode": "ඞෙ"
+  },
+  {
+    "legacy": "fÙa",
+    "unicode": "ඞේ"
+  },
+  {
+    "legacy": "ffÙ",
+    "unicode": "ඞෛ"
+  },
+  {
+    "legacy": "fÙd",
+    "unicode": "ඞො"
+  },
+  {
+    "legacy": "fÙda",
+    "unicode": "ඞෝ"
+  },
+  {
+    "legacy": "fÙ!",
+    "unicode": "ඞෞ"
+  },
+  {
+    "legacy": "Ùx",
+    "unicode": "ඞං"
+  },
+  {
+    "legacy": "Ù#",
+    "unicode": "ඞඃ"
+  },
+  {
+    "legacy": "Ù",
+    "unicode": "ඞ"
+  },
+  {
+    "legacy": "ÕHd",
+    "unicode": "ඟ්‍යා"
+  },
+  {
+    "legacy": "fÕHd",
+    "unicode": "ඟ්‍යො"
+  },
+  {
+    "legacy": "fÕHda",
+    "unicode": "ඟ්‍යෝ"
+  },
+  {
+    "legacy": "Õ%d",
+    "unicode": "ඟ්‍රා"
+  },
+  {
+    "legacy": "Õ%e",
+    "unicode": "ඟ්‍රැ"
+  },
+  {
+    "legacy": "Õ%E",
+    "unicode": "ඟ්‍රෑ"
+  },
+  {
+    "legacy": "Õ%s",
+    "unicode": "ඟ්‍රි"
+  },
+  {
+    "legacy": "Õ%S",
+    "unicode": "ඟ්‍රී"
+  },
+  {
+    "legacy": "fÕ%",
+    "unicode": "ඟ්‍රෙ"
+  },
+  {
+    "legacy": "fÕ%a",
+    "unicode": "ඟ්‍රේ"
+  },
+  {
+    "legacy": "fÕ%d",
+    "unicode": "ඟ්‍රො"
+  },
+  {
+    "legacy": "fÕ%da",
+    "unicode": "ඟ්‍රෝ"
+  },
+  {
+    "legacy": "ffÕ%",
+    "unicode": "ඟ්‍රෛ"
+  },
+  {
+    "legacy": "fÕ%!",
+    "unicode": "ඟ්‍රෞ"
+  },
+  {
+    "legacy": "Õ%x",
+    "unicode": "ඟ්‍රං"
+  },
+  {
+    "legacy": "Õ%#",
+    "unicode": "ඟ්‍රඃ"
+  },
+  {
+    "legacy": "ÕH",
+    "unicode": "ඟ්‍ය"
+  },
+  {
+    "legacy": "Õ%",
+    "unicode": "ඟ්‍ර"
+  },
+  {
+    "legacy": "Õa",
+    "unicode": "ඟ්"
+  },
+  {
+    "legacy": "Õd",
+    "unicode": "ඟා"
+  },
+  {
+    "legacy": "ÕE",
+    "unicode": "ඟෑ"
+  },
+  {
+    "legacy": "Õs",
+    "unicode": "ඟි"
+  },
+  {
+    "legacy": "ÕS",
+    "unicode": "ඟී"
+  },
+  {
+    "legacy": "Õ=",
+    "unicode": "ඟු"
+  },
+  {
+    "legacy": "Õ+",
+    "unicode": "ඟූ"
+  },
+  {
+    "legacy": "ÕD",
+    "unicode": "ඟෘ"
+  },
+  {
+    "legacy": "ÕDD",
+    "unicode": "ඟෲ"
+  },
+  {
+    "legacy": "Õ!",
+    "unicode": "ඟෟ"
+  },
+  {
+    "legacy": "Õ!",
+    "unicode": "ඟෳ"
+  },
+  {
+    "legacy": "fÕ",
+    "unicode": "ඟෙ"
+  },
+  {
+    "legacy": "fÕa",
+    "unicode": "ඟේ"
+  },
+  {
+    "legacy": "ffÕ",
+    "unicode": "ඟෛ"
+  },
+  {
+    "legacy": "fÕd",
+    "unicode": "ඟො"
+  },
+  {
+    "legacy": "fÕda",
+    "unicode": "ඟෝ"
+  },
+  {
+    "legacy": "fÕ!",
+    "unicode": "ඟෞ"
+  },
+  {
+    "legacy": "Õx",
+    "unicode": "ඟං"
+  },
+  {
+    "legacy": "Õ#",
+    "unicode": "ඟඃ"
+  },
+  {
+    "legacy": "Õ",
+    "unicode": "ඟ"
+  },
+  {
+    "legacy": "pHd",
+    "unicode": "ච්‍යා"
+  },
+  {
+    "legacy": "fpHd",
+    "unicode": "ච්‍යො"
+  },
+  {
+    "legacy": "fpHda",
+    "unicode": "ච්‍යෝ"
+  },
+  {
+    "legacy": "p%d",
+    "unicode": "ච්‍රා"
+  },
+  {
+    "legacy": "p%e",
+    "unicode": "ච්‍රැ"
+  },
+  {
+    "legacy": "p%E",
+    "unicode": "ච්‍රෑ"
+  },
+  {
+    "legacy": "Ñ%",
+    "unicode": "ච්‍රි"
+  },
+  {
+    "legacy": "Ö%",
+    "unicode": "ච්‍රී"
+  },
+  {
+    "legacy": "fp%",
+    "unicode": "ච්‍රෙ"
+  },
+  {
+    "legacy": "fÉ%",
+    "unicode": "ච්‍රේ"
+  },
+  {
+    "legacy": "fp%d",
+    "unicode": "ච්‍රො"
+  },
+  {
+    "legacy": "fp%da",
+    "unicode": "ච්‍රෝ"
+  },
+  {
+    "legacy": "ffp%",
+    "unicode": "ච්‍රෛ"
+  },
+  {
+    "legacy": "fp%!",
+    "unicode": "ච්‍රෞ"
+  },
+  {
+    "legacy": "p%x",
+    "unicode": "ච්‍රං"
+  },
+  {
+    "legacy": "p%#",
+    "unicode": "ච්‍රඃ"
+  },
+  {
+    "legacy": "pH",
+    "unicode": "ච්‍ය"
+  },
+  {
+    "legacy": "p%",
+    "unicode": "ච්‍ර"
+  },
+  {
+    "legacy": "É",
+    "unicode": "ච්"
+  },
+  {
+    "legacy": "pd",
+    "unicode": "චා"
+  },
+  {
+    "legacy": "pE",
+    "unicode": "චෑ"
+  },
+  {
+    "legacy": "Ñ",
+    "unicode": "චි"
+  },
+  {
+    "legacy": "Ö",
+    "unicode": "චී"
+  },
+  {
+    "legacy": "pq",
+    "unicode": "චු"
+  },
+  {
+    "legacy": "pQ",
+    "unicode": "චූ"
+  },
+  {
+    "legacy": "pD",
+    "unicode": "චෘ"
+  },
+  {
+    "legacy": "pDD",
+    "unicode": "චෲ"
+  },
+  {
+    "legacy": "p!",
+    "unicode": "චෟ"
+  },
+  {
+    "legacy": "p!",
+    "unicode": "චෳ"
+  },
+  {
+    "legacy": "fp",
+    "unicode": "චෙ"
+  },
+  {
+    "legacy": "fÉ",
+    "unicode": "චේ"
+  },
+  {
+    "legacy": "ffp",
+    "unicode": "චෛ"
+  },
+  {
+    "legacy": "fpd",
+    "unicode": "චො"
+  },
+  {
+    "legacy": "fpda",
+    "unicode": "චෝ"
+  },
+  {
+    "legacy": "fp!",
+    "unicode": "චෞ"
+  },
+  {
+    "legacy": "px",
+    "unicode": "චං"
+  },
+  {
+    "legacy": "p#",
+    "unicode": "චඃ"
+  },
+  {
+    "legacy": "p",
+    "unicode": "ච"
+  },
+  {
+    "legacy": "PHd",
+    "unicode": "ඡ්‍යා"
+  },
+  {
+    "legacy": "fPHd",
+    "unicode": "ඡ්‍යො"
+  },
+  {
+    "legacy": "fPHda",
+    "unicode": "ඡ්‍යෝ"
+  },
+  {
+    "legacy": "P%d",
+    "unicode": "ඡ්‍රා"
+  },
+  {
+    "legacy": "P%e",
+    "unicode": "ඡ්‍රැ"
+  },
+  {
+    "legacy": "P%E",
+    "unicode": "ඡ්‍රෑ"
+  },
+  {
+    "legacy": "P%s",
+    "unicode": "ඡ්‍රි"
+  },
+  {
+    "legacy": "P%S",
+    "unicode": "ඡ්‍රී"
+  },
+  {
+    "legacy": "fP%",
+    "unicode": "ඡ්‍රෙ"
+  },
+  {
+    "legacy": "fP%a",
+    "unicode": "ඡ්‍රේ"
+  },
+  {
+    "legacy": "fP%d",
+    "unicode": "ඡ්‍රො"
+  },
+  {
+    "legacy": "fP%da",
+    "unicode": "ඡ්‍රෝ"
+  },
+  {
+    "legacy": "ffP%",
+    "unicode": "ඡ්‍රෛ"
+  },
+  {
+    "legacy": "fP%!",
+    "unicode": "ඡ්‍රෞ"
+  },
+  {
+    "legacy": "P%x",
+    "unicode": "ඡ්‍රං"
+  },
+  {
+    "legacy": "P%#",
+    "unicode": "ඡ්‍රඃ"
+  },
+  {
+    "legacy": "PH",
+    "unicode": "ඡ්‍ය"
+  },
+  {
+    "legacy": "P%",
+    "unicode": "ඡ්‍ර"
+  },
+  {
+    "legacy": "þ",
+    "unicode": "ඡ්"
+  },
+  {
+    "legacy": "Pd",
+    "unicode": "ඡා"
+  },
+  {
+    "legacy": "PE",
+    "unicode": "ඡෑ"
+  },
+  {
+    "legacy": "ý",
+    "unicode": "ඡි"
+  },
+  {
+    "legacy": "Â",
+    "unicode": "ඡී"
+  },
+  {
+    "legacy": "Pq",
+    "unicode": "ඡු"
+  },
+  {
+    "legacy": "PQ",
+    "unicode": "ඡූ"
+  },
+  {
+    "legacy": "PD",
+    "unicode": "ඡෘ"
+  },
+  {
+    "legacy": "PDD",
+    "unicode": "ඡෲ"
+  },
+  {
+    "legacy": "P!",
+    "unicode": "ඡෟ"
+  },
+  {
+    "legacy": "P!",
+    "unicode": "ඡෳ"
+  },
+  {
+    "legacy": "fP",
+    "unicode": "ඡෙ"
+  },
+  {
+    "legacy": "fþ",
+    "unicode": "ඡේ"
+  },
+  {
+    "legacy": "ffP",
+    "unicode": "ඡෛ"
+  },
+  {
+    "legacy": "fPd",
+    "unicode": "ඡො"
+  },
+  {
+    "legacy": "fPda",
+    "unicode": "ඡෝ"
+  },
+  {
+    "legacy": "fP!",
+    "unicode": "ඡෞ"
+  },
+  {
+    "legacy": "Px",
+    "unicode": "ඡං"
+  },
+  {
+    "legacy": "P#",
+    "unicode": "ඡඃ"
+  },
+  {
+    "legacy": "P",
+    "unicode": "ඡ"
+  },
+  {
+    "legacy": "cHd",
+    "unicode": "ජ්‍යා"
+  },
+  {
+    "legacy": "fcHd",
+    "unicode": "ජ්‍යො"
+  },
+  {
+    "legacy": "fcHda",
+    "unicode": "ජ්‍යෝ"
+  },
+  {
+    "legacy": "c%d",
+    "unicode": "ජ්‍රා"
+  },
+  {
+    "legacy": "c%e",
+    "unicode": "ජ්‍රැ"
+  },
+  {
+    "legacy": "c%E",
+    "unicode": "ජ්‍රෑ"
+  },
+  {
+    "legacy": "c%s",
+    "unicode": "ජ්‍රි"
+  },
+  {
+    "legacy": "c%S",
+    "unicode": "ජ්‍රී"
+  },
+  {
+    "legacy": "fc%",
+    "unicode": "ජ්‍රෙ"
+  },
+  {
+    "legacy": "fc%a",
+    "unicode": "ජ්‍රේ"
+  },
+  {
+    "legacy": "fc%d",
+    "unicode": "ජ්‍රො"
+  },
+  {
+    "legacy": "fc%da",
+    "unicode": "ජ්‍රෝ"
+  },
+  {
+    "legacy": "ffc%",
+    "unicode": "ජ්‍රෛ"
+  },
+  {
+    "legacy": "fc%!",
+    "unicode": "ජ්‍රෞ"
+  },
+  {
+    "legacy": "c%x",
+    "unicode": "ජ්‍රං"
+  },
+  {
+    "legacy": "c%#",
+    "unicode": "ජ්‍රඃ"
+  },
+  {
+    "legacy": "cH",
+    "unicode": "ජ්‍ය"
+  },
+  {
+    "legacy": "c%",
+    "unicode": "ජ්‍ර"
+  },
+  {
+    "legacy": "Ê",
+    "unicode": "ජ්"
+  },
+  {
+    "legacy": "cd",
+    "unicode": "ජා"
+  },
+  {
+    "legacy": "cE",
+    "unicode": "ජෑ"
+  },
+  {
+    "legacy": "ð",
+    "unicode": "ජි"
+  },
+  {
+    "legacy": "Ô",
+    "unicode": "ජී"
+  },
+  {
+    "legacy": "cq",
+    "unicode": "ජු"
+  },
+  {
+    "legacy": "cQ",
+    "unicode": "ජූ"
+  },
+  {
+    "legacy": "cD",
+    "unicode": "ජෘ"
+  },
+  {
+    "legacy": "cDD",
+    "unicode": "ජෲ"
+  },
+  {
+    "legacy": "c!",
+    "unicode": "ජෟ"
+  },
+  {
+    "legacy": "c!",
+    "unicode": "ජෳ"
+  },
+  {
+    "legacy": "fc",
+    "unicode": "ජෙ"
+  },
+  {
+    "legacy": "fÊ",
+    "unicode": "ජේ"
+  },
+  {
+    "legacy": "ffc",
+    "unicode": "ජෛ"
+  },
+  {
+    "legacy": "fcd",
+    "unicode": "ජො"
+  },
+  {
+    "legacy": "fcda",
+    "unicode": "ජෝ"
+  },
+  {
+    "legacy": "fc!",
+    "unicode": "ජෞ"
+  },
+  {
+    "legacy": "cx",
+    "unicode": "ජං"
+  },
+  {
+    "legacy": "c#",
+    "unicode": "ජඃ"
+  },
+  {
+    "legacy": "c",
+    "unicode": "ජ"
+  },
+  {
+    "legacy": "®Hd",
+    "unicode": "ඣ්‍යා"
+  },
+  {
+    "legacy": "f®Hd",
+    "unicode": "ඣ්‍යො"
+  },
+  {
+    "legacy": "f®Hda",
+    "unicode": "ඣ්‍යෝ"
+  },
+  {
+    "legacy": "®%d",
+    "unicode": "ඣ්‍රා"
+  },
+  {
+    "legacy": "®%e",
+    "unicode": "ඣ්‍රැ"
+  },
+  {
+    "legacy": "®%E",
+    "unicode": "ඣ්‍රෑ"
+  },
+  {
+    "legacy": "®%s",
+    "unicode": "ඣ්‍රි"
+  },
+  {
+    "legacy": "®%S",
+    "unicode": "ඣ්‍රී"
+  },
+  {
+    "legacy": "f®%",
+    "unicode": "ඣ්‍රෙ"
+  },
+  {
+    "legacy": "f®%a",
+    "unicode": "ඣ්‍රේ"
+  },
+  {
+    "legacy": "f®%d",
+    "unicode": "ඣ්‍රො"
+  },
+  {
+    "legacy": "f®%da",
+    "unicode": "ඣ්‍රෝ"
+  },
+  {
+    "legacy": "ff®%",
+    "unicode": "ඣ්‍රෛ"
+  },
+  {
+    "legacy": "f®%!",
+    "unicode": "ඣ්‍රෞ"
+  },
+  {
+    "legacy": "®%x",
+    "unicode": "ඣ්‍රං"
+  },
+  {
+    "legacy": "®%#",
+    "unicode": "ඣ්‍රඃ"
+  },
+  {
+    "legacy": "®H",
+    "unicode": "ඣ්‍ය"
+  },
+  {
+    "legacy": "®%",
+    "unicode": "ඣ්‍ර"
+  },
+  {
+    "legacy": "®a",
+    "unicode": "ඣ්"
+  },
+  {
+    "legacy": "®d",
+    "unicode": "ඣා"
+  },
+  {
+    "legacy": "®E",
+    "unicode": "ඣෑ"
+  },
+  {
+    "legacy": "®s",
+    "unicode": "ඣි"
+  },
+  {
+    "legacy": "®S",
+    "unicode": "ඣී"
+  },
+  {
+    "legacy": "®q",
+    "unicode": "ඣු"
+  },
+  {
+    "legacy": "®Q",
+    "unicode": "ඣූ"
+  },
+  {
+    "legacy": "®D",
+    "unicode": "ඣෘ"
+  },
+  {
+    "legacy": "®DD",
+    "unicode": "ඣෲ"
+  },
+  {
+    "legacy": "®!",
+    "unicode": "ඣෟ"
+  },
+  {
+    "legacy": "®!",
+    "unicode": "ඣෳ"
+  },
+  {
+    "legacy": "f®",
+    "unicode": "ඣෙ"
+  },
+  {
+    "legacy": "f®a",
+    "unicode": "ඣේ"
+  },
+  {
+    "legacy": "ff®",
+    "unicode": "ඣෛ"
+  },
+  {
+    "legacy": "f®d",
+    "unicode": "ඣො"
+  },
+  {
+    "legacy": "f®da",
+    "unicode": "ඣෝ"
+  },
+  {
+    "legacy": "f®!",
+    "unicode": "ඣෞ"
+  },
+  {
+    "legacy": "®x",
+    "unicode": "ඣං"
+  },
+  {
+    "legacy": "®#",
+    "unicode": "ඣඃ"
+  },
+  {
+    "legacy": "®",
+    "unicode": "ඣ"
+  },
+  {
+    "legacy": "[Hd",
+    "unicode": "ඤ්‍යා"
+  },
+  {
+    "legacy": "f[Hd",
+    "unicode": "ඤ්‍යො"
+  },
+  {
+    "legacy": "f[Hda",
+    "unicode": "ඤ්‍යෝ"
+  },
+  {
+    "legacy": "[%d",
+    "unicode": "ඤ්‍රා"
+  },
+  {
+    "legacy": "[%e",
+    "unicode": "ඤ්‍රැ"
+  },
+  {
+    "legacy": "[%E",
+    "unicode": "ඤ්‍රෑ"
+  },
+  {
+    "legacy": "[%s",
+    "unicode": "ඤ්‍රි"
+  },
+  {
+    "legacy": "[%S",
+    "unicode": "ඤ්‍රී"
+  },
+  {
+    "legacy": "f[%",
+    "unicode": "ඤ්‍රෙ"
+  },
+  {
+    "legacy": "f[%a",
+    "unicode": "ඤ්‍රේ"
+  },
+  {
+    "legacy": "f[%d",
+    "unicode": "ඤ්‍රො"
+  },
+  {
+    "legacy": "f[%da",
+    "unicode": "ඤ්‍රෝ"
+  },
+  {
+    "legacy": "ff[%",
+    "unicode": "ඤ්‍රෛ"
+  },
+  {
+    "legacy": "f[%!",
+    "unicode": "ඤ්‍රෞ"
+  },
+  {
+    "legacy": "[%x",
+    "unicode": "ඤ්‍රං"
+  },
+  {
+    "legacy": "[%#",
+    "unicode": "ඤ්‍රඃ"
+  },
+  {
+    "legacy": "[H",
+    "unicode": "ඤ්‍ය"
+  },
+  {
+    "legacy": "[%",
+    "unicode": "ඤ්‍ර"
+  },
+  {
+    "legacy": "[a",
+    "unicode": "ඤ්"
+  },
+  {
+    "legacy": "[d",
+    "unicode": "ඤා"
+  },
+  {
+    "legacy": "[E",
+    "unicode": "ඤෑ"
+  },
+  {
+    "legacy": "[s",
+    "unicode": "ඤි"
+  },
+  {
+    "legacy": "[S",
+    "unicode": "ඤී"
+  },
+  {
+    "legacy": "û",
+    "unicode": "ඤු"
+  },
+  {
+    "legacy": "[Q",
+    "unicode": "ඤූ"
+  },
+  {
+    "legacy": "[D",
+    "unicode": "ඤෘ"
+  },
+  {
+    "legacy": "[DD",
+    "unicode": "ඤෲ"
+  },
+  {
+    "legacy": "[!",
+    "unicode": "ඤෟ"
+  },
+  {
+    "legacy": "[!",
+    "unicode": "ඤෳ"
+  },
+  {
+    "legacy": "f[",
+    "unicode": "ඤෙ"
+  },
+  {
+    "legacy": "f[a",
+    "unicode": "ඤේ"
+  },
+  {
+    "legacy": "ff[",
+    "unicode": "ඤෛ"
+  },
+  {
+    "legacy": "f[d",
+    "unicode": "ඤො"
+  },
+  {
+    "legacy": "f[da",
+    "unicode": "ඤෝ"
+  },
+  {
+    "legacy": "f[!",
+    "unicode": "ඤෞ"
+  },
+  {
+    "legacy": "[x",
+    "unicode": "ඤං"
+  },
+  {
+    "legacy": "[#",
+    "unicode": "ඤඃ"
+  },
+  {
+    "legacy": "[",
+    "unicode": "ඤ"
+  },
+  {
+    "legacy": "`cHd",
+    "unicode": "ඦ්‍යා"
+  },
+  {
+    "legacy": "f`cHd",
+    "unicode": "ඦ්‍යො"
+  },
+  {
+    "legacy": "f`cHda",
+    "unicode": "ඦ්‍යෝ"
+  },
+  {
+    "legacy": "`c%d",
+    "unicode": "ඦ්‍රා"
+  },
+  {
+    "legacy": "`c%e",
+    "unicode": "ඦ්‍රැ"
+  },
+  {
+    "legacy": "`c%E",
+    "unicode": "ඦ්‍රෑ"
+  },
+  {
+    "legacy": "`c%s",
+    "unicode": "ඦ්‍රි"
+  },
+  {
+    "legacy": "`c%S",
+    "unicode": "ඦ්‍රී"
+  },
+  {
+    "legacy": "f`c%",
+    "unicode": "ඦ්‍රෙ"
+  },
+  {
+    "legacy": "f`c%a",
+    "unicode": "ඦ්‍රේ"
+  },
+  {
+    "legacy": "f`c%d",
+    "unicode": "ඦ්‍රො"
+  },
+  {
+    "legacy": "f`c%da",
+    "unicode": "ඦ්‍රෝ"
+  },
+  {
+    "legacy": "ff`c%",
+    "unicode": "ඦ්‍රෛ"
+  },
+  {
+    "legacy": "f`c%!",
+    "unicode": "ඦ්‍රෞ"
+  },
+  {
+    "legacy": "`c%x",
+    "unicode": "ඦ්‍රං"
+  },
+  {
+    "legacy": "`c%#",
+    "unicode": "ඦ්‍රඃ"
+  },
+  {
+    "legacy": "`cH",
+    "unicode": "ඦ්‍ය"
+  },
+  {
+    "legacy": "`c%",
+    "unicode": "ඦ්‍ර"
+  },
+  {
+    "legacy": "`ca",
+    "unicode": "ඦ්"
+  },
+  {
+    "legacy": "`cd",
+    "unicode": "ඦා"
+  },
+  {
+    "legacy": "`cE",
+    "unicode": "ඦෑ"
+  },
+  {
+    "legacy": "`cs",
+    "unicode": "ඦි"
+  },
+  {
+    "legacy": "`cS",
+    "unicode": "ඦී"
+  },
+  {
+    "legacy": "`cq",
+    "unicode": "ඦු"
+  },
+  {
+    "legacy": "`cQ",
+    "unicode": "ඦූ"
+  },
+  {
+    "legacy": "`cD",
+    "unicode": "ඦෘ"
+  },
+  {
+    "legacy": "`cDD",
+    "unicode": "ඦෲ"
+  },
+  {
+    "legacy": "`c!",
+    "unicode": "ඦෟ"
+  },
+  {
+    "legacy": "`c!",
+    "unicode": "ඦෳ"
+  },
+  {
+    "legacy": "f`c",
+    "unicode": "ඦෙ"
+  },
+  {
+    "legacy": "f`ca",
+    "unicode": "ඦේ"
+  },
+  {
+    "legacy": "ff`c",
+    "unicode": "ඦෛ"
+  },
+  {
+    "legacy": "f`cd",
+    "unicode": "ඦො"
+  },
+  {
+    "legacy": "f`cda",
+    "unicode": "ඦෝ"
+  },
+  {
+    "legacy": "f`c!",
+    "unicode": "ඦෞ"
+  },
+  {
+    "legacy": "`cx",
+    "unicode": "ඦං"
+  },
+  {
+    "legacy": "`c#",
+    "unicode": "ඦඃ"
+  },
+  {
+    "legacy": "`c",
+    "unicode": "ඦ"
+  },
+  {
+    "legacy": "gHd",
+    "unicode": "ට්‍යා"
+  },
+  {
+    "legacy": "fgHd",
+    "unicode": "ට්‍යො"
+  },
+  {
+    "legacy": "fgHda",
+    "unicode": "ට්‍යෝ"
+  },
+  {
+    "legacy": "g%d",
+    "unicode": "ට්‍රා"
+  },
+  {
+    "legacy": "g%e",
+    "unicode": "ට්‍රැ"
+  },
+  {
+    "legacy": "g%E",
+    "unicode": "ට්‍රෑ"
+  },
+  {
+    "legacy": "á%",
+    "unicode": "ට්‍රි"
+  },
+  {
+    "legacy": "à%",
+    "unicode": "ට්‍රී"
+  },
+  {
+    "legacy": "fg%",
+    "unicode": "ට්‍රෙ"
+  },
+  {
+    "legacy": "fÜ%",
+    "unicode": "ට්‍රේ"
+  },
+  {
+    "legacy": "fg%d",
+    "unicode": "ට්‍රො"
+  },
+  {
+    "legacy": "fg%da",
+    "unicode": "ට්‍රෝ"
+  },
+  {
+    "legacy": "ffg%",
+    "unicode": "ට්‍රෛ"
+  },
+  {
+    "legacy": "fg%!",
+    "unicode": "ට්‍රෞ"
+  },
+  {
+    "legacy": "g%x",
+    "unicode": "ට්‍රං"
+  },
+  {
+    "legacy": "g%#",
+    "unicode": "ට්‍රඃ"
+  },
+  {
+    "legacy": "gH",
+    "unicode": "ට්‍ය"
+  },
+  {
+    "legacy": "g%",
+    "unicode": "ට්‍ර"
+  },
+  {
+    "legacy": "Ü",
+    "unicode": "ට්"
+  },
+  {
+    "legacy": "gd",
+    "unicode": "ටා"
+  },
+  {
+    "legacy": "gE",
+    "unicode": "ටෑ"
+  },
+  {
+    "legacy": "á",
+    "unicode": "ටි"
+  },
+  {
+    "legacy": "à",
+    "unicode": "ටී"
+  },
+  {
+    "legacy": "gq",
+    "unicode": "ටු"
+  },
+  {
+    "legacy": "gQ",
+    "unicode": "ටූ"
+  },
+  {
+    "legacy": "gD",
+    "unicode": "ටෘ"
+  },
+  {
+    "legacy": "gDD",
+    "unicode": "ටෲ"
+  },
+  {
+    "legacy": "g!",
+    "unicode": "ටෟ"
+  },
+  {
+    "legacy": "g!",
+    "unicode": "ටෳ"
+  },
+  {
+    "legacy": "fg",
+    "unicode": "ටෙ"
+  },
+  {
+    "legacy": "fÜ",
+    "unicode": "ටේ"
+  },
+  {
+    "legacy": "ffg",
+    "unicode": "ටෛ"
+  },
+  {
+    "legacy": "fgd",
+    "unicode": "ටො"
+  },
+  {
+    "legacy": "fgda",
+    "unicode": "ටෝ"
+  },
+  {
+    "legacy": "fg!",
+    "unicode": "ටෞ"
+  },
+  {
+    "legacy": "gx",
+    "unicode": "ටං"
+  },
+  {
+    "legacy": "g#",
+    "unicode": "ටඃ"
+  },
+  {
+    "legacy": "g",
+    "unicode": "ට"
+  },
+  {
+    "legacy": "GHd",
+    "unicode": "ඨ්‍යා"
+  },
+  {
+    "legacy": "fGHd",
+    "unicode": "ඨ්‍යො"
+  },
+  {
+    "legacy": "fGHda",
+    "unicode": "ඨ්‍යෝ"
+  },
+  {
+    "legacy": "G%d",
+    "unicode": "ඨ්‍රා"
+  },
+  {
+    "legacy": "G%e",
+    "unicode": "ඨ්‍රැ"
+  },
+  {
+    "legacy": "G%E",
+    "unicode": "ඨ්‍රෑ"
+  },
+  {
+    "legacy": "G%s",
+    "unicode": "ඨ්‍රි"
+  },
+  {
+    "legacy": "G%S",
+    "unicode": "ඨ්‍රී"
+  },
+  {
+    "legacy": "fG%",
+    "unicode": "ඨ්‍රෙ"
+  },
+  {
+    "legacy": "fG%a",
+    "unicode": "ඨ්‍රේ"
+  },
+  {
+    "legacy": "fG%d",
+    "unicode": "ඨ්‍රො"
+  },
+  {
+    "legacy": "fG%da",
+    "unicode": "ඨ්‍රෝ"
+  },
+  {
+    "legacy": "ffG%",
+    "unicode": "ඨ්‍රෛ"
+  },
+  {
+    "legacy": "fG%!",
+    "unicode": "ඨ්‍රෞ"
+  },
+  {
+    "legacy": "G%x",
+    "unicode": "ඨ්‍රං"
+  },
+  {
+    "legacy": "G%#",
+    "unicode": "ඨ්‍රඃ"
+  },
+  {
+    "legacy": "GH",
+    "unicode": "ඨ්‍ය"
+  },
+  {
+    "legacy": "G%",
+    "unicode": "ඨ්‍ර"
+  },
+  {
+    "legacy": "Ga",
+    "unicode": "ඨ්"
+  },
+  {
+    "legacy": "Gd",
+    "unicode": "ඨා"
+  },
+  {
+    "legacy": "GE",
+    "unicode": "ඨෑ"
+  },
+  {
+    "legacy": "À",
+    "unicode": "ඨි"
+  },
+  {
+    "legacy": "Á",
+    "unicode": "ඨී"
+  },
+  {
+    "legacy": "Gq",
+    "unicode": "ඨු"
+  },
+  {
+    "legacy": "GQ",
+    "unicode": "ඨූ"
+  },
+  {
+    "legacy": "GD",
+    "unicode": "ඨෘ"
+  },
+  {
+    "legacy": "GDD",
+    "unicode": "ඨෲ"
+  },
+  {
+    "legacy": "G!",
+    "unicode": "ඨෟ"
+  },
+  {
+    "legacy": "G!",
+    "unicode": "ඨෳ"
+  },
+  {
+    "legacy": "fG",
+    "unicode": "ඨෙ"
+  },
+  {
+    "legacy": "fGa",
+    "unicode": "ඨේ"
+  },
+  {
+    "legacy": "ffG",
+    "unicode": "ඨෛ"
+  },
+  {
+    "legacy": "fGd",
+    "unicode": "ඨො"
+  },
+  {
+    "legacy": "fGda",
+    "unicode": "ඨෝ"
+  },
+  {
+    "legacy": "fG!",
+    "unicode": "ඨෞ"
+  },
+  {
+    "legacy": "Gx",
+    "unicode": "ඨං"
+  },
+  {
+    "legacy": "G#",
+    "unicode": "ඨඃ"
+  },
+  {
+    "legacy": "G",
+    "unicode": "ඨ"
+  },
+  {
+    "legacy": "vHd",
+    "unicode": "ඩ්‍යා"
+  },
+  {
+    "legacy": "fvHd",
+    "unicode": "ඩ්‍යො"
+  },
+  {
+    "legacy": "fvHda",
+    "unicode": "ඩ්‍යෝ"
+  },
+  {
+    "legacy": "v%d",
+    "unicode": "ඩ්‍රා"
+  },
+  {
+    "legacy": "v%e",
+    "unicode": "ඩ්‍රැ"
+  },
+  {
+    "legacy": "v%E",
+    "unicode": "ඩ්‍රෑ"
+  },
+  {
+    "legacy": "ä%",
+    "unicode": "ඩ්‍රි"
+  },
+  {
+    "legacy": "ã%",
+    "unicode": "ඩ්‍රී"
+  },
+  {
+    "legacy": "fv%",
+    "unicode": "ඩ්‍රෙ"
+  },
+  {
+    "legacy": "fâ%",
+    "unicode": "ඩ්‍රේ"
+  },
+  {
+    "legacy": "fv%d",
+    "unicode": "ඩ්‍රො"
+  },
+  {
+    "legacy": "fv%da",
+    "unicode": "ඩ්‍රෝ"
+  },
+  {
+    "legacy": "ffv%",
+    "unicode": "ඩ්‍රෛ"
+  },
+  {
+    "legacy": "fv%!",
+    "unicode": "ඩ්‍රෞ"
+  },
+  {
+    "legacy": "v%x",
+    "unicode": "ඩ්‍රං"
+  },
+  {
+    "legacy": "v%#",
+    "unicode": "ඩ්‍රඃ"
+  },
+  {
+    "legacy": "vH",
+    "unicode": "ඩ්‍ය"
+  },
+  {
+    "legacy": "v%",
+    "unicode": "ඩ්‍ර"
+  },
+  {
+    "legacy": "â",
+    "unicode": "ඩ්"
+  },
+  {
+    "legacy": "vd",
+    "unicode": "ඩා"
+  },
+  {
+    "legacy": "vE",
+    "unicode": "ඩෑ"
+  },
+  {
+    "legacy": "ä",
+    "unicode": "ඩි"
+  },
+  {
+    "legacy": "ã",
+    "unicode": "ඩී"
+  },
+  {
+    "legacy": "vq",
+    "unicode": "ඩු"
+  },
+  {
+    "legacy": "vQ",
+    "unicode": "ඩූ"
+  },
+  {
+    "legacy": "vD",
+    "unicode": "ඩෘ"
+  },
+  {
+    "legacy": "vDD",
+    "unicode": "ඩෲ"
+  },
+  {
+    "legacy": "v!",
+    "unicode": "ඩෟ"
+  },
+  {
+    "legacy": "v!",
+    "unicode": "ඩෳ"
+  },
+  {
+    "legacy": "fv",
+    "unicode": "ඩෙ"
+  },
+  {
+    "legacy": "fâ",
+    "unicode": "ඩේ"
+  },
+  {
+    "legacy": "ffv",
+    "unicode": "ඩෛ"
+  },
+  {
+    "legacy": "fvd",
+    "unicode": "ඩො"
+  },
+  {
+    "legacy": "fvda",
+    "unicode": "ඩෝ"
+  },
+  {
+    "legacy": "fv!",
+    "unicode": "ඩෞ"
+  },
+  {
+    "legacy": "vx",
+    "unicode": "ඩං"
+  },
+  {
+    "legacy": "v#",
+    "unicode": "ඩඃ"
+  },
+  {
+    "legacy": "v",
+    "unicode": "ඩ"
+  },
+  {
+    "legacy": "VHd",
+    "unicode": "ඪ්‍යා"
+  },
+  {
+    "legacy": "fVHd",
+    "unicode": "ඪ්‍යො"
+  },
+  {
+    "legacy": "fVHda",
+    "unicode": "ඪ්‍යෝ"
+  },
+  {
+    "legacy": "V%d",
+    "unicode": "ඪ්‍රා"
+  },
+  {
+    "legacy": "V%e",
+    "unicode": "ඪ්‍රැ"
+  },
+  {
+    "legacy": "V%E",
+    "unicode": "ඪ්‍රෑ"
+  },
+  {
+    "legacy": "V%s",
+    "unicode": "ඪ්‍රි"
+  },
+  {
+    "legacy": "V%S",
+    "unicode": "ඪ්‍රී"
+  },
+  {
+    "legacy": "fV%",
+    "unicode": "ඪ්‍රෙ"
+  },
+  {
+    "legacy": "fV%a",
+    "unicode": "ඪ්‍රේ"
+  },
+  {
+    "legacy": "fV%d",
+    "unicode": "ඪ්‍රො"
+  },
+  {
+    "legacy": "fV%da",
+    "unicode": "ඪ්‍රෝ"
+  },
+  {
+    "legacy": "ffV%",
+    "unicode": "ඪ්‍රෛ"
+  },
+  {
+    "legacy": "fV%!",
+    "unicode": "ඪ්‍රෞ"
+  },
+  {
+    "legacy": "V%x",
+    "unicode": "ඪ්‍රං"
+  },
+  {
+    "legacy": "V%#",
+    "unicode": "ඪ්‍රඃ"
+  },
+  {
+    "legacy": "VH",
+    "unicode": "ඪ්‍ය"
+  },
+  {
+    "legacy": "V%",
+    "unicode": "ඪ්‍ර"
+  },
+  {
+    "legacy": "Va",
+    "unicode": "ඪ්"
+  },
+  {
+    "legacy": "Vd",
+    "unicode": "ඪා"
+  },
+  {
+    "legacy": "VE",
+    "unicode": "ඪෑ"
+  },
+  {
+    "legacy": "Î",
+    "unicode": "ඪි"
+  },
+  {
+    "legacy": "Ð",
+    "unicode": "ඪී"
+  },
+  {
+    "legacy": "Vq",
+    "unicode": "ඪු"
+  },
+  {
+    "legacy": "VQ",
+    "unicode": "ඪූ"
+  },
+  {
+    "legacy": "VD",
+    "unicode": "ඪෘ"
+  },
+  {
+    "legacy": "VDD",
+    "unicode": "ඪෲ"
+  },
+  {
+    "legacy": "V!",
+    "unicode": "ඪෟ"
+  },
+  {
+    "legacy": "V!",
+    "unicode": "ඪෳ"
+  },
+  {
+    "legacy": "fV",
+    "unicode": "ඪෙ"
+  },
+  {
+    "legacy": "fVa",
+    "unicode": "ඪේ"
+  },
+  {
+    "legacy": "ffV",
+    "unicode": "ඪෛ"
+  },
+  {
+    "legacy": "fVd",
+    "unicode": "ඪො"
+  },
+  {
+    "legacy": "fVda",
+    "unicode": "ඪෝ"
+  },
+  {
+    "legacy": "fV!",
+    "unicode": "ඪෞ"
+  },
+  {
+    "legacy": "Vx",
+    "unicode": "ඪං"
+  },
+  {
+    "legacy": "V#",
+    "unicode": "ඪඃ"
+  },
+  {
+    "legacy": "V",
+    "unicode": "ඪ"
+  },
+  {
+    "legacy": "KHd",
+    "unicode": "ණ්‍යා"
+  },
+  {
+    "legacy": "fKHd",
+    "unicode": "ණ්‍යො"
+  },
+  {
+    "legacy": "fKHda",
+    "unicode": "ණ්‍යෝ"
+  },
+  {
+    "legacy": "K%d",
+    "unicode": "ණ්‍රා"
+  },
+  {
+    "legacy": "K%e",
+    "unicode": "ණ්‍රැ"
+  },
+  {
+    "legacy": "K%E",
+    "unicode": "ණ්‍රෑ"
+  },
+  {
+    "legacy": "K%s",
+    "unicode": "ණ්‍රි"
+  },
+  {
+    "legacy": "K%S",
+    "unicode": "ණ්‍රී"
+  },
+  {
+    "legacy": "fK%",
+    "unicode": "ණ්‍රෙ"
+  },
+  {
+    "legacy": "fK%a",
+    "unicode": "ණ්‍රේ"
+  },
+  {
+    "legacy": "fK%d",
+    "unicode": "ණ්‍රො"
+  },
+  {
+    "legacy": "fK%da",
+    "unicode": "ණ්‍රෝ"
+  },
+  {
+    "legacy": "ffK%",
+    "unicode": "ණ්‍රෛ"
+  },
+  {
+    "legacy": "fK%!",
+    "unicode": "ණ්‍රෞ"
+  },
+  {
+    "legacy": "K%x",
+    "unicode": "ණ්‍රං"
+  },
+  {
+    "legacy": "K%#",
+    "unicode": "ණ්‍රඃ"
+  },
+  {
+    "legacy": "KH",
+    "unicode": "ණ්‍ය"
+  },
+  {
+    "legacy": "K%",
+    "unicode": "ණ්‍ර"
+  },
+  {
+    "legacy": "Ka",
+    "unicode": "ණ්"
+  },
+  {
+    "legacy": "Kd",
+    "unicode": "ණා"
+  },
+  {
+    "legacy": "KE",
+    "unicode": "ණෑ"
+  },
+  {
+    "legacy": "‚",
+    "unicode": "ණි"
+  },
+  {
+    "legacy": "Œ",
+    "unicode": "ණී"
+  },
+  {
+    "legacy": "Kq",
+    "unicode": "ණු"
+  },
+  {
+    "legacy": "KQ",
+    "unicode": "ණූ"
+  },
+  {
+    "legacy": "KD",
+    "unicode": "ණෘ"
+  },
+  {
+    "legacy": "KDD",
+    "unicode": "ණෲ"
+  },
+  {
+    "legacy": "K!",
+    "unicode": "ණෟ"
+  },
+  {
+    "legacy": "K!",
+    "unicode": "ණෳ"
+  },
+  {
+    "legacy": "fK",
+    "unicode": "ණෙ"
+  },
+  {
+    "legacy": "fKa",
+    "unicode": "ණේ"
+  },
+  {
+    "legacy": "ffK",
+    "unicode": "ණෛ"
+  },
+  {
+    "legacy": "fKd",
+    "unicode": "ණො"
+  },
+  {
+    "legacy": "fKda",
+    "unicode": "ණෝ"
+  },
+  {
+    "legacy": "fK!",
+    "unicode": "ණෞ"
+  },
+  {
+    "legacy": "Kx",
+    "unicode": "ණං"
+  },
+  {
+    "legacy": "K#",
+    "unicode": "ණඃ"
+  },
+  {
+    "legacy": "K",
+    "unicode": "ණ"
+  },
+  {
+    "legacy": "~Hd",
+    "unicode": "ඬ්‍යා"
+  },
+  {
+    "legacy": "f~Hd",
+    "unicode": "ඬ්‍යො"
+  },
+  {
+    "legacy": "f~Hda",
+    "unicode": "ඬ්‍යෝ"
+  },
+  {
+    "legacy": "~%d",
+    "unicode": "ඬ්‍රා"
+  },
+  {
+    "legacy": "~%e",
+    "unicode": "ඬ්‍රැ"
+  },
+  {
+    "legacy": "~%E",
+    "unicode": "ඬ්‍රෑ"
+  },
+  {
+    "legacy": "~%s",
+    "unicode": "ඬ්‍රි"
+  },
+  {
+    "legacy": "~%S",
+    "unicode": "ඬ්‍රී"
+  },
+  {
+    "legacy": "f~%",
+    "unicode": "ඬ්‍රෙ"
+  },
+  {
+    "legacy": "f~%a",
+    "unicode": "ඬ්‍රේ"
+  },
+  {
+    "legacy": "f~%d",
+    "unicode": "ඬ්‍රො"
+  },
+  {
+    "legacy": "f~%da",
+    "unicode": "ඬ්‍රෝ"
+  },
+  {
+    "legacy": "ff~%",
+    "unicode": "ඬ්‍රෛ"
+  },
+  {
+    "legacy": "f~%!",
+    "unicode": "ඬ්‍රෞ"
+  },
+  {
+    "legacy": "~%x",
+    "unicode": "ඬ්‍රං"
+  },
+  {
+    "legacy": "~%#",
+    "unicode": "ඬ්‍රඃ"
+  },
+  {
+    "legacy": "~H",
+    "unicode": "ඬ්‍ය"
+  },
+  {
+    "legacy": "~%",
+    "unicode": "ඬ්‍ර"
+  },
+  {
+    "legacy": "å",
+    "unicode": "ඬ්"
+  },
+  {
+    "legacy": "~d",
+    "unicode": "ඬා"
+  },
+  {
+    "legacy": "~E",
+    "unicode": "ඬෑ"
+  },
+  {
+    "legacy": "ç",
+    "unicode": "ඬි"
+  },
+  {
+    "legacy": "é",
+    "unicode": "ඬී"
+  },
+  {
+    "legacy": "~q",
+    "unicode": "ඬු"
+  },
+  {
+    "legacy": "~Q",
+    "unicode": "ඬූ"
+  },
+  {
+    "legacy": "~D",
+    "unicode": "ඬෘ"
+  },
+  {
+    "legacy": "~DD",
+    "unicode": "ඬෲ"
+  },
+  {
+    "legacy": "~!",
+    "unicode": "ඬෟ"
+  },
+  {
+    "legacy": "~!",
+    "unicode": "ඬෳ"
+  },
+  {
+    "legacy": "f~",
+    "unicode": "ඬෙ"
+  },
+  {
+    "legacy": "få",
+    "unicode": "ඬේ"
+  },
+  {
+    "legacy": "ff~",
+    "unicode": "ඬෛ"
+  },
+  {
+    "legacy": "f~d",
+    "unicode": "ඬො"
+  },
+  {
+    "legacy": "f~da",
+    "unicode": "ඬෝ"
+  },
+  {
+    "legacy": "f~!",
+    "unicode": "ඬෞ"
+  },
+  {
+    "legacy": "~x",
+    "unicode": "ඬං"
+  },
+  {
+    "legacy": "~#",
+    "unicode": "ඬඃ"
+  },
+  {
+    "legacy": "~",
+    "unicode": "ඬ"
+  },
+  {
+    "legacy": ";Hd",
+    "unicode": "ත්‍යා"
+  },
+  {
+    "legacy": "f;Hd",
+    "unicode": "ත්‍යො"
+  },
+  {
+    "legacy": "f;Hda",
+    "unicode": "ත්‍යෝ"
+  },
+  {
+    "legacy": ";%d",
+    "unicode": "ත්‍රා"
+  },
+  {
+    "legacy": ";%e",
+    "unicode": "ත්‍රැ"
+  },
+  {
+    "legacy": ";%E",
+    "unicode": "ත්‍රෑ"
+  },
+  {
+    "legacy": ";%s",
+    "unicode": "ත්‍රි"
+  },
+  {
+    "legacy": ";%S",
+    "unicode": "ත්‍රී"
+  },
+  {
+    "legacy": "f;%",
+    "unicode": "ත්‍රෙ"
+  },
+  {
+    "legacy": "f;%a",
+    "unicode": "ත්‍රේ"
+  },
+  {
+    "legacy": "f;%d",
+    "unicode": "ත්‍රො"
+  },
+  {
+    "legacy": "f;%da",
+    "unicode": "ත්‍රෝ"
+  },
+  {
+    "legacy": "ff;%",
+    "unicode": "ත්‍රෛ"
+  },
+  {
+    "legacy": "f;%!",
+    "unicode": "ත්‍රෞ"
+  },
+  {
+    "legacy": ";%x",
+    "unicode": "ත්‍රං"
+  },
+  {
+    "legacy": ";%#",
+    "unicode": "ත්‍රඃ"
+  },
+  {
+    "legacy": ";H",
+    "unicode": "ත්‍ය"
+  },
+  {
+    "legacy": ";%",
+    "unicode": "ත්‍ර"
+  },
+  {
+    "legacy": ";a",
+    "unicode": "ත්"
+  },
+  {
+    "legacy": ";d",
+    "unicode": "තා"
+  },
+  {
+    "legacy": ";E",
+    "unicode": "තෑ"
+  },
+  {
+    "legacy": ";s",
+    "unicode": "ති"
+  },
+  {
+    "legacy": ";S",
+    "unicode": "තී"
+  },
+  {
+    "legacy": ";=",
+    "unicode": "තු"
+  },
+  {
+    "legacy": ";+",
+    "unicode": "තූ"
+  },
+  {
+    "legacy": ";D",
+    "unicode": "තෘ"
+  },
+  {
+    "legacy": ";DD",
+    "unicode": "තෲ"
+  },
+  {
+    "legacy": ";!",
+    "unicode": "තෟ"
+  },
+  {
+    "legacy": ";!",
+    "unicode": "තෳ"
+  },
+  {
+    "legacy": "f;",
+    "unicode": "තෙ"
+  },
+  {
+    "legacy": "f;a",
+    "unicode": "තේ"
+  },
+  {
+    "legacy": "ff;",
+    "unicode": "තෛ"
+  },
+  {
+    "legacy": "f;d",
+    "unicode": "තො"
+  },
+  {
+    "legacy": "f;da",
+    "unicode": "තෝ"
+  },
+  {
+    "legacy": "f;!",
+    "unicode": "තෞ"
+  },
+  {
+    "legacy": ";x",
+    "unicode": "තං"
+  },
+  {
+    "legacy": ";#",
+    "unicode": "තඃ"
+  },
+  {
+    "legacy": ";",
+    "unicode": "ත"
+  },
+  {
+    "legacy": ":Hd",
+    "unicode": "ථ්‍යා"
+  },
+  {
+    "legacy": "f:Hd",
+    "unicode": "ථ්‍යො"
+  },
+  {
+    "legacy": "f:Hda",
+    "unicode": "ථ්‍යෝ"
+  },
+  {
+    "legacy": ":%d",
+    "unicode": "ථ්‍රා"
+  },
+  {
+    "legacy": ":%e",
+    "unicode": "ථ්‍රැ"
+  },
+  {
+    "legacy": ":%E",
+    "unicode": "ථ්‍රෑ"
+  },
+  {
+    "legacy": ":%s",
+    "unicode": "ථ්‍රි"
+  },
+  {
+    "legacy": ":%S",
+    "unicode": "ථ්‍රී"
+  },
+  {
+    "legacy": "f:%",
+    "unicode": "ථ්‍රෙ"
+  },
+  {
+    "legacy": "f:%a",
+    "unicode": "ථ්‍රේ"
+  },
+  {
+    "legacy": "f:%d",
+    "unicode": "ථ්‍රො"
+  },
+  {
+    "legacy": "f:%da",
+    "unicode": "ථ්‍රෝ"
+  },
+  {
+    "legacy": "ff:%",
+    "unicode": "ථ්‍රෛ"
+  },
+  {
+    "legacy": "f:%!",
+    "unicode": "ථ්‍රෞ"
+  },
+  {
+    "legacy": ":%x",
+    "unicode": "ථ්‍රං"
+  },
+  {
+    "legacy": ":%#",
+    "unicode": "ථ්‍රඃ"
+  },
+  {
+    "legacy": ":H",
+    "unicode": "ථ්‍ය"
+  },
+  {
+    "legacy": ":%",
+    "unicode": "ථ්‍ර"
+  },
+  {
+    "legacy": ":a",
+    "unicode": "ථ්"
+  },
+  {
+    "legacy": ":d",
+    "unicode": "ථා"
+  },
+  {
+    "legacy": ":E",
+    "unicode": "ථෑ"
+  },
+  {
+    "legacy": "Ó",
+    "unicode": "ථි"
+  },
+  {
+    "legacy": "Ò",
+    "unicode": "ථී"
+  },
+  {
+    "legacy": ":q",
+    "unicode": "ථු"
+  },
+  {
+    "legacy": ":Q",
+    "unicode": "ථූ"
+  },
+  {
+    "legacy": ":D",
+    "unicode": "ථෘ"
+  },
+  {
+    "legacy": ":DD",
+    "unicode": "ථෲ"
+  },
+  {
+    "legacy": ":!",
+    "unicode": "ථෟ"
+  },
+  {
+    "legacy": ":!",
+    "unicode": "ථෳ"
+  },
+  {
+    "legacy": "f:",
+    "unicode": "ථෙ"
+  },
+  {
+    "legacy": "f:a",
+    "unicode": "ථේ"
+  },
+  {
+    "legacy": "ff:",
+    "unicode": "ථෛ"
+  },
+  {
+    "legacy": "f:d",
+    "unicode": "ථො"
+  },
+  {
+    "legacy": "f:da",
+    "unicode": "ථෝ"
+  },
+  {
+    "legacy": "f:!",
+    "unicode": "ථෞ"
+  },
+  {
+    "legacy": ":x",
+    "unicode": "ථං"
+  },
+  {
+    "legacy": ":#",
+    "unicode": "ථඃ"
+  },
+  {
+    "legacy": ":",
+    "unicode": "ථ"
+  },
+  {
+    "legacy": "oHd",
+    "unicode": "ද්‍යා"
+  },
+  {
+    "legacy": "foHd",
+    "unicode": "ද්‍යො"
+  },
+  {
+    "legacy": "foHda",
+    "unicode": "ද්‍යෝ"
+  },
+  {
+    "legacy": "ød",
+    "unicode": "ද්‍රා"
+  },
+  {
+    "legacy": "øe",
+    "unicode": "ද්‍රැ"
+  },
+  {
+    "legacy": "øE",
+    "unicode": "ද්‍රෑ"
+  },
+  {
+    "legacy": "øs",
+    "unicode": "ද්‍රි"
+  },
+  {
+    "legacy": "øS",
+    "unicode": "ද්‍රී"
+  },
+  {
+    "legacy": "fø",
+    "unicode": "ද්‍රෙ"
+  },
+  {
+    "legacy": "føa",
+    "unicode": "ද්‍රේ"
+  },
+  {
+    "legacy": "fød",
+    "unicode": "ද්‍රො"
+  },
+  {
+    "legacy": "føda",
+    "unicode": "ද්‍රෝ"
+  },
+  {
+    "legacy": "ffø",
+    "unicode": "ද්‍රෛ"
+  },
+  {
+    "legacy": "fø!",
+    "unicode": "ද්‍රෞ"
+  },
+  {
+    "legacy": "øx",
+    "unicode": "ද්‍රං"
+  },
+  {
+    "legacy": "ø#",
+    "unicode": "ද්‍රඃ"
+  },
+  {
+    "legacy": "oH",
+    "unicode": "ද්‍ය"
+  },
+  {
+    "legacy": "ø",
+    "unicode": "ද්‍ර"
+  },
+  {
+    "legacy": "oa",
+    "unicode": "ද්"
+  },
+  {
+    "legacy": "od",
+    "unicode": "දා"
+  },
+  {
+    "legacy": "oE",
+    "unicode": "දෑ"
+  },
+  {
+    "legacy": "È",
+    "unicode": "දි"
+  },
+  {
+    "legacy": "§",
+    "unicode": "දී"
+  },
+  {
+    "legacy": "ÿ",
+    "unicode": "දු"
+  },
+  {
+    "legacy": "¥",
+    "unicode": "දූ"
+  },
+  {
+    "legacy": "oD",
+    "unicode": "දෘ"
+  },
+  {
+    "legacy": "oDD",
+    "unicode": "දෲ"
+  },
+  {
+    "legacy": "o!",
+    "unicode": "දෟ"
+  },
+  {
+    "legacy": "o!",
+    "unicode": "දෳ"
+  },
+  {
+    "legacy": "fo",
+    "unicode": "දෙ"
+  },
+  {
+    "legacy": "foa",
+    "unicode": "දේ"
+  },
+  {
+    "legacy": "ffo",
+    "unicode": "දෛ"
+  },
+  {
+    "legacy": "fod",
+    "unicode": "දො"
+  },
+  {
+    "legacy": "foda",
+    "unicode": "දෝ"
+  },
+  {
+    "legacy": "fo!",
+    "unicode": "දෞ"
+  },
+  {
+    "legacy": "ox",
+    "unicode": "දං"
+  },
+  {
+    "legacy": "o#",
+    "unicode": "දඃ"
+  },
+  {
+    "legacy": "o",
+    "unicode": "ද"
+  },
+  {
+    "legacy": "OHd",
+    "unicode": "ධ්‍යා"
+  },
+  {
+    "legacy": "fOHd",
+    "unicode": "ධ්‍යො"
+  },
+  {
+    "legacy": "fOHda",
+    "unicode": "ධ්‍යෝ"
+  },
+  {
+    "legacy": "O%d",
+    "unicode": "ධ්‍රා"
+  },
+  {
+    "legacy": "O%e",
+    "unicode": "ධ්‍රැ"
+  },
+  {
+    "legacy": "O%E",
+    "unicode": "ධ්‍රෑ"
+  },
+  {
+    "legacy": "ê%",
+    "unicode": "ධ්‍රි"
+  },
+  {
+    "legacy": "ë%",
+    "unicode": "ධ්‍රී"
+  },
+  {
+    "legacy": "fO%",
+    "unicode": "ධ්‍රෙ"
+  },
+  {
+    "legacy": "fè%",
+    "unicode": "ධ්‍රේ"
+  },
+  {
+    "legacy": "fO%d",
+    "unicode": "ධ්‍රො"
+  },
+  {
+    "legacy": "fO%da",
+    "unicode": "ධ්‍රෝ"
+  },
+  {
+    "legacy": "ffO%",
+    "unicode": "ධ්‍රෛ"
+  },
+  {
+    "legacy": "fO%!",
+    "unicode": "ධ්‍රෞ"
+  },
+  {
+    "legacy": "O%x",
+    "unicode": "ධ්‍රං"
+  },
+  {
+    "legacy": "O%#",
+    "unicode": "ධ්‍රඃ"
+  },
+  {
+    "legacy": "OH",
+    "unicode": "ධ්‍ය"
+  },
+  {
+    "legacy": "O%",
+    "unicode": "ධ්‍ර"
+  },
+  {
+    "legacy": "è",
+    "unicode": "ධ්"
+  },
+  {
+    "legacy": "Od",
+    "unicode": "ධා"
+  },
+  {
+    "legacy": "OE",
+    "unicode": "ධෑ"
+  },
+  {
+    "legacy": "ê",
+    "unicode": "ධි"
+  },
+  {
+    "legacy": "ë",
+    "unicode": "ධී"
+  },
+  {
+    "legacy": "Oq",
+    "unicode": "ධු"
+  },
+  {
+    "legacy": "OQ",
+    "unicode": "ධූ"
+  },
+  {
+    "legacy": "OD",
+    "unicode": "ධෘ"
+  },
+  {
+    "legacy": "ODD",
+    "unicode": "ධෲ"
+  },
+  {
+    "legacy": "O!",
+    "unicode": "ධෟ"
+  },
+  {
+    "legacy": "O!",
+    "unicode": "ධෳ"
+  },
+  {
+    "legacy": "fO",
+    "unicode": "ධෙ"
+  },
+  {
+    "legacy": "fè",
+    "unicode": "ධේ"
+  },
+  {
+    "legacy": "ffO",
+    "unicode": "ධෛ"
+  },
+  {
+    "legacy": "fOd",
+    "unicode": "ධො"
+  },
+  {
+    "legacy": "fOda",
+    "unicode": "ධෝ"
+  },
+  {
+    "legacy": "fO!",
+    "unicode": "ධෞ"
+  },
+  {
+    "legacy": "Ox",
+    "unicode": "ධං"
+  },
+  {
+    "legacy": "O#",
+    "unicode": "ධඃ"
+  },
+  {
+    "legacy": "O",
+    "unicode": "ධ"
+  },
+  {
+    "legacy": "kHd",
+    "unicode": "න්‍යා"
+  },
+  {
+    "legacy": "fkHd",
+    "unicode": "න්‍යො"
+  },
+  {
+    "legacy": "fkHda",
+    "unicode": "න්‍යෝ"
+  },
+  {
+    "legacy": "k%d",
+    "unicode": "න්‍රා"
+  },
+  {
+    "legacy": "k%e",
+    "unicode": "න්‍රැ"
+  },
+  {
+    "legacy": "k%E",
+    "unicode": "න්‍රෑ"
+  },
+  {
+    "legacy": "k%s",
+    "unicode": "න්‍රි"
+  },
+  {
+    "legacy": "k%S",
+    "unicode": "න්‍රී"
+  },
+  {
+    "legacy": "fk%",
+    "unicode": "න්‍රෙ"
+  },
+  {
+    "legacy": "fk%a",
+    "unicode": "න්‍රේ"
+  },
+  {
+    "legacy": "fk%d",
+    "unicode": "න්‍රො"
+  },
+  {
+    "legacy": "fk%da",
+    "unicode": "න්‍රෝ"
+  },
+  {
+    "legacy": "ffk%",
+    "unicode": "න්‍රෛ"
+  },
+  {
+    "legacy": "fk%!",
+    "unicode": "න්‍රෞ"
+  },
+  {
+    "legacy": "k%x",
+    "unicode": "න්‍රං"
+  },
+  {
+    "legacy": "k%#",
+    "unicode": "න්‍රඃ"
+  },
+  {
+    "legacy": "kH",
+    "unicode": "න්‍ය"
+  },
+  {
+    "legacy": "k%",
+    "unicode": "න්‍ර"
+  },
+  {
+    "legacy": "ka",
+    "unicode": "න්"
+  },
+  {
+    "legacy": "kd",
+    "unicode": "නා"
+  },
+  {
+    "legacy": "kE",
+    "unicode": "නෑ"
+  },
+  {
+    "legacy": "ks",
+    "unicode": "නි"
+  },
+  {
+    "legacy": "kS",
+    "unicode": "නී"
+  },
+  {
+    "legacy": "kq",
+    "unicode": "නු"
+  },
+  {
+    "legacy": "kQ",
+    "unicode": "නූ"
+  },
+  {
+    "legacy": "kD",
+    "unicode": "නෘ"
+  },
+  {
+    "legacy": "kDD",
+    "unicode": "නෲ"
+  },
+  {
+    "legacy": "k!",
+    "unicode": "නෟ"
+  },
+  {
+    "legacy": "k!",
+    "unicode": "නෳ"
+  },
+  {
+    "legacy": "fk",
+    "unicode": "නෙ"
+  },
+  {
+    "legacy": "fka",
+    "unicode": "නේ"
+  },
+  {
+    "legacy": "ffk",
+    "unicode": "නෛ"
+  },
+  {
+    "legacy": "fkd",
+    "unicode": "නො"
+  },
+  {
+    "legacy": "fkda",
+    "unicode": "නෝ"
+  },
+  {
+    "legacy": "fk!",
+    "unicode": "නෞ"
+  },
+  {
+    "legacy": "kx",
+    "unicode": "නං"
+  },
+  {
+    "legacy": "k#",
+    "unicode": "නඃ"
+  },
+  {
+    "legacy": "k",
+    "unicode": "න"
+  },
+  {
+    "legacy": "|Hd",
+    "unicode": "ඳ්‍යා"
+  },
+  {
+    "legacy": "f|Hd",
+    "unicode": "ඳ්‍යො"
+  },
+  {
+    "legacy": "f|Hda",
+    "unicode": "ඳ්‍යෝ"
+  },
+  {
+    "legacy": "|%d",
+    "unicode": "ඳ්‍රා"
+  },
+  {
+    "legacy": "|%e",
+    "unicode": "ඳ්‍රැ"
+  },
+  {
+    "legacy": "|%E",
+    "unicode": "ඳ්‍රෑ"
+  },
+  {
+    "legacy": "|%s",
+    "unicode": "ඳ්‍රි"
+  },
+  {
+    "legacy": "|%S",
+    "unicode": "ඳ්‍රී"
+  },
+  {
+    "legacy": "f|%",
+    "unicode": "ඳ්‍රෙ"
+  },
+  {
+    "legacy": "f|%a",
+    "unicode": "ඳ්‍රේ"
+  },
+  {
+    "legacy": "f|%d",
+    "unicode": "ඳ්‍රො"
+  },
+  {
+    "legacy": "f|%da",
+    "unicode": "ඳ්‍රෝ"
+  },
+  {
+    "legacy": "ff|%",
+    "unicode": "ඳ්‍රෛ"
+  },
+  {
+    "legacy": "f|%!",
+    "unicode": "ඳ්‍රෞ"
+  },
+  {
+    "legacy": "|%x",
+    "unicode": "ඳ්‍රං"
+  },
+  {
+    "legacy": "|%#",
+    "unicode": "ඳ්‍රඃ"
+  },
+  {
+    "legacy": "|H",
+    "unicode": "ඳ්‍ය"
+  },
+  {
+    "legacy": "|%",
+    "unicode": "ඳ්‍ර"
+  },
+  {
+    "legacy": "|a",
+    "unicode": "ඳ්"
+  },
+  {
+    "legacy": "|d",
+    "unicode": "ඳා"
+  },
+  {
+    "legacy": "|E",
+    "unicode": "ඳෑ"
+  },
+  {
+    "legacy": "¢",
+    "unicode": "ඳි"
+  },
+  {
+    "legacy": "£",
+    "unicode": "ඳී"
+  },
+  {
+    "legacy": "÷",
+    "unicode": "ඳු"
+  },
+  {
+    "legacy": "ª",
+    "unicode": "ඳූ"
+  },
+  {
+    "legacy": "|D",
+    "unicode": "ඳෘ"
+  },
+  {
+    "legacy": "|DD",
+    "unicode": "ඳෲ"
+  },
+  {
+    "legacy": "|!",
+    "unicode": "ඳෟ"
+  },
+  {
+    "legacy": "|!",
+    "unicode": "ඳෳ"
+  },
+  {
+    "legacy": "f|",
+    "unicode": "ඳෙ"
+  },
+  {
+    "legacy": "f|a",
+    "unicode": "ඳේ"
+  },
+  {
+    "legacy": "ff|",
+    "unicode": "ඳෛ"
+  },
+  {
+    "legacy": "f|d",
+    "unicode": "ඳො"
+  },
+  {
+    "legacy": "f|da",
+    "unicode": "ඳෝ"
+  },
+  {
+    "legacy": "f|!",
+    "unicode": "ඳෞ"
+  },
+  {
+    "legacy": "|x",
+    "unicode": "ඳං"
+  },
+  {
+    "legacy": "|#",
+    "unicode": "ඳඃ"
+  },
+  {
+    "legacy": "|",
+    "unicode": "ඳ"
+  },
+  {
+    "legacy": "mHd",
+    "unicode": "ප්‍යා"
+  },
+  {
+    "legacy": "fmHd",
+    "unicode": "ප්‍යො"
+  },
+  {
+    "legacy": "fmHda",
+    "unicode": "ප්‍යෝ"
+  },
+  {
+    "legacy": "m%d",
+    "unicode": "ප්‍රා"
+  },
+  {
+    "legacy": "m%e",
+    "unicode": "ප්‍රැ"
+  },
+  {
+    "legacy": "m%E",
+    "unicode": "ප්‍රෑ"
+  },
+  {
+    "legacy": "m%s",
+    "unicode": "ප්‍රි"
+  },
+  {
+    "legacy": "m%S",
+    "unicode": "ප්‍රී"
+  },
+  {
+    "legacy": "fm%",
+    "unicode": "ප්‍රෙ"
+  },
+  {
+    "legacy": "fm%a",
+    "unicode": "ප්‍රේ"
+  },
+  {
+    "legacy": "fm%d",
+    "unicode": "ප්‍රො"
+  },
+  {
+    "legacy": "fm%da",
+    "unicode": "ප්‍රෝ"
+  },
+  {
+    "legacy": "ffm%",
+    "unicode": "ප්‍රෛ"
+  },
+  {
+    "legacy": "fm%!",
+    "unicode": "ප්‍රෞ"
+  },
+  {
+    "legacy": "m%x",
+    "unicode": "ප්‍රං"
+  },
+  {
+    "legacy": "m%#",
+    "unicode": "ප්‍රඃ"
+  },
+  {
+    "legacy": "mH",
+    "unicode": "ප්‍ය"
+  },
+  {
+    "legacy": "m%",
+    "unicode": "ප්‍ර"
+  },
+  {
+    "legacy": "ma",
+    "unicode": "ප්"
+  },
+  {
+    "legacy": "md",
+    "unicode": "පා"
+  },
+  {
+    "legacy": "mE",
+    "unicode": "පෑ"
+  },
+  {
+    "legacy": "ms",
+    "unicode": "පි"
+  },
+  {
+    "legacy": "mS",
+    "unicode": "පී"
+  },
+  {
+    "legacy": "mq",
+    "unicode": "පු"
+  },
+  {
+    "legacy": "mQ",
+    "unicode": "පූ"
+  },
+  {
+    "legacy": "mD",
+    "unicode": "පෘ"
+  },
+  {
+    "legacy": "mDD",
+    "unicode": "පෲ"
+  },
+  {
+    "legacy": "m!",
+    "unicode": "පෟ"
+  },
+  {
+    "legacy": "m!",
+    "unicode": "පෳ"
+  },
+  {
+    "legacy": "fm",
+    "unicode": "පෙ"
+  },
+  {
+    "legacy": "fma",
+    "unicode": "පේ"
+  },
+  {
+    "legacy": "ffm",
+    "unicode": "පෛ"
+  },
+  {
+    "legacy": "fmd",
+    "unicode": "පො"
+  },
+  {
+    "legacy": "fmda",
+    "unicode": "පෝ"
+  },
+  {
+    "legacy": "fm!",
+    "unicode": "පෞ"
+  },
+  {
+    "legacy": "mx",
+    "unicode": "පං"
+  },
+  {
+    "legacy": "m#",
+    "unicode": "පඃ"
+  },
+  {
+    "legacy": "m",
+    "unicode": "ප"
+  },
+  {
+    "legacy": "MHd",
+    "unicode": "ඵ්‍යා"
+  },
+  {
+    "legacy": "fMHd",
+    "unicode": "ඵ්‍යො"
+  },
+  {
+    "legacy": "fMHda",
+    "unicode": "ඵ්‍යෝ"
+  },
+  {
+    "legacy": "M%d",
+    "unicode": "ඵ්‍රා"
+  },
+  {
+    "legacy": "M%e",
+    "unicode": "ඵ්‍රැ"
+  },
+  {
+    "legacy": "M%E",
+    "unicode": "ඵ්‍රෑ"
+  },
+  {
+    "legacy": "M%s",
+    "unicode": "ඵ්‍රි"
+  },
+  {
+    "legacy": "M%S",
+    "unicode": "ඵ්‍රී"
+  },
+  {
+    "legacy": "fM%",
+    "unicode": "ඵ්‍රෙ"
+  },
+  {
+    "legacy": "fM%a",
+    "unicode": "ඵ්‍රේ"
+  },
+  {
+    "legacy": "fM%d",
+    "unicode": "ඵ්‍රො"
+  },
+  {
+    "legacy": "fM%da",
+    "unicode": "ඵ්‍රෝ"
+  },
+  {
+    "legacy": "ffM%",
+    "unicode": "ඵ්‍රෛ"
+  },
+  {
+    "legacy": "fM%!",
+    "unicode": "ඵ්‍රෞ"
+  },
+  {
+    "legacy": "M%x",
+    "unicode": "ඵ්‍රං"
+  },
+  {
+    "legacy": "M%#",
+    "unicode": "ඵ්‍රඃ"
+  },
+  {
+    "legacy": "MH",
+    "unicode": "ඵ්‍ය"
+  },
+  {
+    "legacy": "M%",
+    "unicode": "ඵ්‍ර"
+  },
+  {
+    "legacy": "Ma",
+    "unicode": "ඵ්"
+  },
+  {
+    "legacy": "Md",
+    "unicode": "ඵා"
+  },
+  {
+    "legacy": "ME",
+    "unicode": "ඵෑ"
+  },
+  {
+    "legacy": "Ý",
+    "unicode": "ඵි"
+  },
+  {
+    "legacy": "Ú",
+    "unicode": "ඵී"
+  },
+  {
+    "legacy": "Mq",
+    "unicode": "ඵු"
+  },
+  {
+    "legacy": "MQ",
+    "unicode": "ඵූ"
+  },
+  {
+    "legacy": "MD",
+    "unicode": "ඵෘ"
+  },
+  {
+    "legacy": "MDD",
+    "unicode": "ඵෲ"
+  },
+  {
+    "legacy": "M!",
+    "unicode": "ඵෟ"
+  },
+  {
+    "legacy": "M!",
+    "unicode": "ඵෳ"
+  },
+  {
+    "legacy": "fM",
+    "unicode": "ඵෙ"
+  },
+  {
+    "legacy": "fMa",
+    "unicode": "ඵේ"
+  },
+  {
+    "legacy": "ffM",
+    "unicode": "ඵෛ"
+  },
+  {
+    "legacy": "fMd",
+    "unicode": "ඵො"
+  },
+  {
+    "legacy": "fMda",
+    "unicode": "ඵෝ"
+  },
+  {
+    "legacy": "fM!",
+    "unicode": "ඵෞ"
+  },
+  {
+    "legacy": "Mx",
+    "unicode": "ඵං"
+  },
+  {
+    "legacy": "M#",
+    "unicode": "ඵඃ"
+  },
+  {
+    "legacy": "M",
+    "unicode": "ඵ"
+  },
+  {
+    "legacy": "nHd",
+    "unicode": "බ්‍යා"
+  },
+  {
+    "legacy": "fnHd",
+    "unicode": "බ්‍යො"
+  },
+  {
+    "legacy": "fnHda",
+    "unicode": "බ්‍යෝ"
+  },
+  {
+    "legacy": "n%d",
+    "unicode": "බ්‍රා"
+  },
+  {
+    "legacy": "n%e",
+    "unicode": "බ්‍රැ"
+  },
+  {
+    "legacy": "n%E",
+    "unicode": "බ්‍රෑ"
+  },
+  {
+    "legacy": "ì%",
+    "unicode": "බ්‍රි"
+  },
+  {
+    "legacy": "î%",
+    "unicode": "බ්‍රී"
+  },
+  {
+    "legacy": "fn%",
+    "unicode": "බ්‍රෙ"
+  },
+  {
+    "legacy": "fí%",
+    "unicode": "බ්‍රේ"
+  },
+  {
+    "legacy": "fn%d",
+    "unicode": "බ්‍රො"
+  },
+  {
+    "legacy": "fn%da",
+    "unicode": "බ්‍රෝ"
+  },
+  {
+    "legacy": "ffn%",
+    "unicode": "බ්‍රෛ"
+  },
+  {
+    "legacy": "fn%!",
+    "unicode": "බ්‍රෞ"
+  },
+  {
+    "legacy": "n%x",
+    "unicode": "බ්‍රං"
+  },
+  {
+    "legacy": "n%#",
+    "unicode": "බ්‍රඃ"
+  },
+  {
+    "legacy": "nH",
+    "unicode": "බ්‍ය"
+  },
+  {
+    "legacy": "n%",
+    "unicode": "බ්‍ර"
+  },
+  {
+    "legacy": "í",
+    "unicode": "බ්"
+  },
+  {
+    "legacy": "nd",
+    "unicode": "බා"
+  },
+  {
+    "legacy": "nE",
+    "unicode": "බෑ"
+  },
+  {
+    "legacy": "ì",
+    "unicode": "බි"
+  },
+  {
+    "legacy": "î",
+    "unicode": "බී"
+  },
+  {
+    "legacy": "nq",
+    "unicode": "බු"
+  },
+  {
+    "legacy": "nQ",
+    "unicode": "බූ"
+  },
+  {
+    "legacy": "nD",
+    "unicode": "බෘ"
+  },
+  {
+    "legacy": "nDD",
+    "unicode": "බෲ"
+  },
+  {
+    "legacy": "n!",
+    "unicode": "බෟ"
+  },
+  {
+    "legacy": "n!",
+    "unicode": "බෳ"
+  },
+  {
+    "legacy": "fn",
+    "unicode": "බෙ"
+  },
+  {
+    "legacy": "fí",
+    "unicode": "බේ"
+  },
+  {
+    "legacy": "ffn",
+    "unicode": "බෛ"
+  },
+  {
+    "legacy": "fnd",
+    "unicode": "බො"
+  },
+  {
+    "legacy": "fnda",
+    "unicode": "බෝ"
+  },
+  {
+    "legacy": "fn!",
+    "unicode": "බෞ"
+  },
+  {
+    "legacy": "nx",
+    "unicode": "බං"
+  },
+  {
+    "legacy": "n#",
+    "unicode": "බඃ"
+  },
+  {
+    "legacy": "n",
+    "unicode": "බ"
+  },
+  {
+    "legacy": "NHd",
+    "unicode": "භ්‍යා"
+  },
+  {
+    "legacy": "fNHd",
+    "unicode": "භ්‍යො"
+  },
+  {
+    "legacy": "fNHda",
+    "unicode": "භ්‍යෝ"
+  },
+  {
+    "legacy": "N%d",
+    "unicode": "භ්‍රා"
+  },
+  {
+    "legacy": "N%e",
+    "unicode": "භ්‍රැ"
+  },
+  {
+    "legacy": "N%E",
+    "unicode": "භ්‍රෑ"
+  },
+  {
+    "legacy": "N%s",
+    "unicode": "භ්‍රි"
+  },
+  {
+    "legacy": "N%S",
+    "unicode": "භ්‍රී"
+  },
+  {
+    "legacy": "fN%",
+    "unicode": "භ්‍රෙ"
+  },
+  {
+    "legacy": "fN%a",
+    "unicode": "භ්‍රේ"
+  },
+  {
+    "legacy": "fN%d",
+    "unicode": "භ්‍රො"
+  },
+  {
+    "legacy": "fN%da",
+    "unicode": "භ්‍රෝ"
+  },
+  {
+    "legacy": "ffN%",
+    "unicode": "භ්‍රෛ"
+  },
+  {
+    "legacy": "fN%!",
+    "unicode": "භ්‍රෞ"
+  },
+  {
+    "legacy": "N%x",
+    "unicode": "භ්‍රං"
+  },
+  {
+    "legacy": "N%#",
+    "unicode": "භ්‍රඃ"
+  },
+  {
+    "legacy": "NH",
+    "unicode": "භ්‍ය"
+  },
+  {
+    "legacy": "N%",
+    "unicode": "භ්‍ර"
+  },
+  {
+    "legacy": "Na",
+    "unicode": "භ්"
+  },
+  {
+    "legacy": "Nd",
+    "unicode": "භා"
+  },
+  {
+    "legacy": "NE",
+    "unicode": "භෑ"
+  },
+  {
+    "legacy": "Ns",
+    "unicode": "භි"
+  },
+  {
+    "legacy": "NS",
+    "unicode": "භී"
+  },
+  {
+    "legacy": "N=",
+    "unicode": "භු"
+  },
+  {
+    "legacy": "N+",
+    "unicode": "භූ"
+  },
+  {
+    "legacy": "ND",
+    "unicode": "භෘ"
+  },
+  {
+    "legacy": "NDD",
+    "unicode": "භෲ"
+  },
+  {
+    "legacy": "N!",
+    "unicode": "භෟ"
+  },
+  {
+    "legacy": "N!",
+    "unicode": "භෳ"
+  },
+  {
+    "legacy": "fN",
+    "unicode": "භෙ"
+  },
+  {
+    "legacy": "fNa",
+    "unicode": "භේ"
+  },
+  {
+    "legacy": "ffN",
+    "unicode": "භෛ"
+  },
+  {
+    "legacy": "fNd",
+    "unicode": "භො"
+  },
+  {
+    "legacy": "fNda",
+    "unicode": "භෝ"
+  },
+  {
+    "legacy": "fN!",
+    "unicode": "භෞ"
+  },
+  {
+    "legacy": "Nx",
+    "unicode": "භං"
+  },
+  {
+    "legacy": "N#",
+    "unicode": "භඃ"
+  },
+  {
+    "legacy": "N",
+    "unicode": "භ"
+  },
+  {
+    "legacy": "uHd",
+    "unicode": "ම්‍යා"
+  },
+  {
+    "legacy": "fuHd",
+    "unicode": "ම්‍යො"
+  },
+  {
+    "legacy": "fuHda",
+    "unicode": "ම්‍යෝ"
+  },
+  {
+    "legacy": "u%d",
+    "unicode": "ම්‍රා"
+  },
+  {
+    "legacy": "u%e",
+    "unicode": "ම්‍රැ"
+  },
+  {
+    "legacy": "u%E",
+    "unicode": "ම්‍රෑ"
+  },
+  {
+    "legacy": "ñ%",
+    "unicode": "ම්‍රි"
+  },
+  {
+    "legacy": "ó%",
+    "unicode": "ම්‍රී"
+  },
+  {
+    "legacy": "fu%",
+    "unicode": "ම්‍රෙ"
+  },
+  {
+    "legacy": "fï%",
+    "unicode": "ම්‍රේ"
+  },
+  {
+    "legacy": "fu%d",
+    "unicode": "ම්‍රො"
+  },
+  {
+    "legacy": "fu%da",
+    "unicode": "ම්‍රෝ"
+  },
+  {
+    "legacy": "ffu%",
+    "unicode": "ම්‍රෛ"
+  },
+  {
+    "legacy": "fu%!",
+    "unicode": "ම්‍රෞ"
+  },
+  {
+    "legacy": "u%x",
+    "unicode": "ම්‍රං"
+  },
+  {
+    "legacy": "u%#",
+    "unicode": "ම්‍රඃ"
+  },
+  {
+    "legacy": "uH",
+    "unicode": "ම්‍ය"
+  },
+  {
+    "legacy": "u%",
+    "unicode": "ම්‍ර"
+  },
+  {
+    "legacy": "ï",
+    "unicode": "ම්"
+  },
+  {
+    "legacy": "ud",
+    "unicode": "මා"
+  },
+  {
+    "legacy": "uE",
+    "unicode": "මෑ"
+  },
+  {
+    "legacy": "ñ",
+    "unicode": "මි"
+  },
+  {
+    "legacy": "ó",
+    "unicode": "මී"
+  },
+  {
+    "legacy": "uq",
+    "unicode": "මු"
+  },
+  {
+    "legacy": "uQ",
+    "unicode": "මූ"
+  },
+  {
+    "legacy": "uD",
+    "unicode": "මෘ"
+  },
+  {
+    "legacy": "uDD",
+    "unicode": "මෲ"
+  },
+  {
+    "legacy": "u!",
+    "unicode": "මෟ"
+  },
+  {
+    "legacy": "u!",
+    "unicode": "මෳ"
+  },
+  {
+    "legacy": "fu",
+    "unicode": "මෙ"
+  },
+  {
+    "legacy": "fï",
+    "unicode": "මේ"
+  },
+  {
+    "legacy": "ffu",
+    "unicode": "මෛ"
+  },
+  {
+    "legacy": "fud",
+    "unicode": "මො"
+  },
+  {
+    "legacy": "fuda",
+    "unicode": "මෝ"
+  },
+  {
+    "legacy": "fu!",
+    "unicode": "මෞ"
+  },
+  {
+    "legacy": "ux",
+    "unicode": "මං"
+  },
+  {
+    "legacy": "u#",
+    "unicode": "මඃ"
+  },
+  {
+    "legacy": "u",
+    "unicode": "ම"
+  },
+  {
+    "legacy": "UHd",
+    "unicode": "ඹ්‍යා"
+  },
+  {
+    "legacy": "fUHd",
+    "unicode": "ඹ්‍යො"
+  },
+  {
+    "legacy": "fUHda",
+    "unicode": "ඹ්‍යෝ"
+  },
+  {
+    "legacy": "U%d",
+    "unicode": "ඹ්‍රා"
+  },
+  {
+    "legacy": "U%e",
+    "unicode": "ඹ්‍රැ"
+  },
+  {
+    "legacy": "U%E",
+    "unicode": "ඹ්‍රෑ"
+  },
+  {
+    "legacy": "ô%",
+    "unicode": "ඹ්‍රි"
+  },
+  {
+    "legacy": "ö%",
+    "unicode": "ඹ්‍රී"
+  },
+  {
+    "legacy": "fU%",
+    "unicode": "ඹ්‍රෙ"
+  },
+  {
+    "legacy": "fò%",
+    "unicode": "ඹ්‍රේ"
+  },
+  {
+    "legacy": "fU%d",
+    "unicode": "ඹ්‍රො"
+  },
+  {
+    "legacy": "fU%da",
+    "unicode": "ඹ්‍රෝ"
+  },
+  {
+    "legacy": "ffU%",
+    "unicode": "ඹ්‍රෛ"
+  },
+  {
+    "legacy": "fU%!",
+    "unicode": "ඹ්‍රෞ"
+  },
+  {
+    "legacy": "U%x",
+    "unicode": "ඹ්‍රං"
+  },
+  {
+    "legacy": "U%#",
+    "unicode": "ඹ්‍රඃ"
+  },
+  {
+    "legacy": "UH",
+    "unicode": "ඹ්‍ය"
+  },
+  {
+    "legacy": "U%",
+    "unicode": "ඹ්‍ර"
+  },
+  {
+    "legacy": "ò",
+    "unicode": "ඹ්"
+  },
+  {
+    "legacy": "Ud",
+    "unicode": "ඹා"
+  },
+  {
+    "legacy": "UE",
+    "unicode": "ඹෑ"
+  },
+  {
+    "legacy": "ô",
+    "unicode": "ඹි"
+  },
+  {
+    "legacy": "ö",
+    "unicode": "ඹී"
+  },
+  {
+    "legacy": "Uq",
+    "unicode": "ඹු"
+  },
+  {
+    "legacy": "UQ",
+    "unicode": "ඹූ"
+  },
+  {
+    "legacy": "UD",
+    "unicode": "ඹෘ"
+  },
+  {
+    "legacy": "UDD",
+    "unicode": "ඹෲ"
+  },
+  {
+    "legacy": "U!",
+    "unicode": "ඹෟ"
+  },
+  {
+    "legacy": "U!",
+    "unicode": "ඹෳ"
+  },
+  {
+    "legacy": "fU",
+    "unicode": "ඹෙ"
+  },
+  {
+    "legacy": "fò",
+    "unicode": "ඹේ"
+  },
+  {
+    "legacy": "ffU",
+    "unicode": "ඹෛ"
+  },
+  {
+    "legacy": "fUd",
+    "unicode": "ඹො"
+  },
+  {
+    "legacy": "fUda",
+    "unicode": "ඹෝ"
+  },
+  {
+    "legacy": "fU!",
+    "unicode": "ඹෞ"
+  },
+  {
+    "legacy": "Ux",
+    "unicode": "ඹං"
+  },
+  {
+    "legacy": "U#",
+    "unicode": "ඹඃ"
+  },
+  {
+    "legacy": "U",
+    "unicode": "ඹ"
+  },
+  {
+    "legacy": "hHd",
+    "unicode": "ය්‍යා"
+  },
+  {
+    "legacy": "fhHd",
+    "unicode": "ය්‍යො"
+  },
+  {
+    "legacy": "fhHda",
+    "unicode": "ය්‍යෝ"
+  },
+  {
+    "legacy": "h%d",
+    "unicode": "ය්‍රා"
+  },
+  {
+    "legacy": "h%e",
+    "unicode": "ය්‍රැ"
+  },
+  {
+    "legacy": "h%E",
+    "unicode": "ය්‍රෑ"
+  },
+  {
+    "legacy": "h%s",
+    "unicode": "ය්‍රි"
+  },
+  {
+    "legacy": "h%S",
+    "unicode": "ය්‍රී"
+  },
+  {
+    "legacy": "fh%",
+    "unicode": "ය්‍රෙ"
+  },
+  {
+    "legacy": "fh%a",
+    "unicode": "ය්‍රේ"
+  },
+  {
+    "legacy": "fh%d",
+    "unicode": "ය්‍රො"
+  },
+  {
+    "legacy": "fh%da",
+    "unicode": "ය්‍රෝ"
+  },
+  {
+    "legacy": "ffh%",
+    "unicode": "ය්‍රෛ"
+  },
+  {
+    "legacy": "fh%!",
+    "unicode": "ය්‍රෞ"
+  },
+  {
+    "legacy": "h%x",
+    "unicode": "ය්‍රං"
+  },
+  {
+    "legacy": "h%#",
+    "unicode": "ය්‍රඃ"
+  },
+  {
+    "legacy": "hH",
+    "unicode": "ය්‍ය"
+  },
+  {
+    "legacy": "h%",
+    "unicode": "ය්‍ර"
+  },
+  {
+    "legacy": "ha",
+    "unicode": "ය්"
+  },
+  {
+    "legacy": "hd",
+    "unicode": "යා"
+  },
+  {
+    "legacy": "hE",
+    "unicode": "යෑ"
+  },
+  {
+    "legacy": "hs",
+    "unicode": "යි"
+  },
+  {
+    "legacy": "hS",
+    "unicode": "යී"
+  },
+  {
+    "legacy": "hq",
+    "unicode": "යු"
+  },
+  {
+    "legacy": "hQ",
+    "unicode": "යූ"
+  },
+  {
+    "legacy": "hD",
+    "unicode": "යෘ"
+  },
+  {
+    "legacy": "hDD",
+    "unicode": "යෲ"
+  },
+  {
+    "legacy": "h!",
+    "unicode": "යෟ"
+  },
+  {
+    "legacy": "h!",
+    "unicode": "යෳ"
+  },
+  {
+    "legacy": "fh",
+    "unicode": "යෙ"
+  },
+  {
+    "legacy": "fha",
+    "unicode": "යේ"
+  },
+  {
+    "legacy": "ffh",
+    "unicode": "යෛ"
+  },
+  {
+    "legacy": "fhd",
+    "unicode": "යො"
+  },
+  {
+    "legacy": "fhda",
+    "unicode": "යෝ"
+  },
+  {
+    "legacy": "fh!",
+    "unicode": "යෞ"
+  },
+  {
+    "legacy": "hx",
+    "unicode": "යං"
+  },
+  {
+    "legacy": "h#",
+    "unicode": "යඃ"
+  },
+  {
+    "legacy": "h",
+    "unicode": "ය"
+  },
+  {
+    "legacy": "h–d",
+    "unicode": "ර්‍යා"
+  },
+  {
+    "legacy": "hf–d",
+    "unicode": "ර්‍යො"
+  },
+  {
+    "legacy": "hf–da",
+    "unicode": "ර්‍යෝ"
+  },
+  {
+    "legacy": "r–d",
+    "unicode": "ර්‍රා"
+  },
+  {
+    "legacy": "r–e",
+    "unicode": "ර්‍රැ"
+  },
+  {
+    "legacy": "r–E",
+    "unicode": "ර්‍රෑ"
+  },
+  {
+    "legacy": "r–s",
+    "unicode": "ර්‍රි"
+  },
+  {
+    "legacy": "r–S",
+    "unicode": "ර්‍රී"
+  },
+  {
+    "legacy": "rf–",
+    "unicode": "ර්‍රෙ"
+  },
+  {
+    "legacy": "rf–a",
+    "unicode": "ර්‍රේ"
+  },
+  {
+    "legacy": "rf–d",
+    "unicode": "ර්‍රො"
+  },
+  {
+    "legacy": "rf–da",
+    "unicode": "ර්‍රෝ"
+  },
+  {
+    "legacy": "rff–",
+    "unicode": "ර්‍රෛ"
+  },
+  {
+    "legacy": "rf–!",
+    "unicode": "ර්‍රෞ"
+  },
+  {
+    "legacy": "r–x",
+    "unicode": "ර්‍රං"
+  },
+  {
+    "legacy": "r–#",
+    "unicode": "ර්‍රඃ"
+  },
+  {
+    "legacy": "h–",
+    "unicode": "ර්‍ය"
+  },
+  {
+    "legacy": "r–",
+    "unicode": "ර්‍ර"
+  },
+  {
+    "legacy": "¾",
+    "unicode": "ර්"
+  },
+  {
+    "legacy": "rd",
+    "unicode": "රා"
+  },
+  {
+    "legacy": "?",
+    "unicode": "රෑ"
+  },
+  {
+    "legacy": "ß",
+    "unicode": "රි"
+  },
+  {
+    "legacy": "Í",
+    "unicode": "රී"
+  },
+  {
+    "legacy": "re",
+    "unicode": "රු"
+  },
+  {
+    "legacy": "rE",
+    "unicode": "රූ"
+  },
+  {
+    "legacy": "rD",
+    "unicode": "රෘ"
+  },
+  {
+    "legacy": "rDD",
+    "unicode": "රෲ"
+  },
+  {
+    "legacy": "r!",
+    "unicode": "රෟ"
+  },
+  {
+    "legacy": "r!",
+    "unicode": "රෳ"
+  },
+  {
+    "legacy": "fr",
+    "unicode": "රෙ"
+  },
+  {
+    "legacy": "fra",
+    "unicode": "රේ"
+  },
+  {
+    "legacy": "ffr",
+    "unicode": "රෛ"
+  },
+  {
+    "legacy": "frd",
+    "unicode": "රො"
+  },
+  {
+    "legacy": "frda",
+    "unicode": "රෝ"
+  },
+  {
+    "legacy": "fr!",
+    "unicode": "රෞ"
+  },
+  {
+    "legacy": "rx",
+    "unicode": "රං"
+  },
+  {
+    "legacy": "r#",
+    "unicode": "රඃ"
+  },
+  {
+    "legacy": "r",
+    "unicode": "ර"
+  },
+  {
+    "legacy": ",Hd",
+    "unicode": "ල්‍යා"
+  },
+  {
+    "legacy": "f,Hd",
+    "unicode": "ල්‍යො"
+  },
+  {
+    "legacy": "f,Hda",
+    "unicode": "ල්‍යෝ"
+  },
+  {
+    "legacy": ",%d",
+    "unicode": "ල්‍රා"
+  },
+  {
+    "legacy": ",%e",
+    "unicode": "ල්‍රැ"
+  },
+  {
+    "legacy": ",%E",
+    "unicode": "ල්‍රෑ"
+  },
+  {
+    "legacy": ",%s",
+    "unicode": "ල්‍රි"
+  },
+  {
+    "legacy": ",%S",
+    "unicode": "ල්‍රී"
+  },
+  {
+    "legacy": "f,%",
+    "unicode": "ල්‍රෙ"
+  },
+  {
+    "legacy": "f,%a",
+    "unicode": "ල්‍රේ"
+  },
+  {
+    "legacy": "f,%d",
+    "unicode": "ල්‍රො"
+  },
+  {
+    "legacy": "f,%da",
+    "unicode": "ල්‍රෝ"
+  },
+  {
+    "legacy": "ff,%",
+    "unicode": "ල්‍රෛ"
+  },
+  {
+    "legacy": "f,%!",
+    "unicode": "ල්‍රෞ"
+  },
+  {
+    "legacy": ",%x",
+    "unicode": "ල්‍රං"
+  },
+  {
+    "legacy": ",%#",
+    "unicode": "ල්‍රඃ"
+  },
+  {
+    "legacy": ",H",
+    "unicode": "ල්‍ය"
+  },
+  {
+    "legacy": ",%",
+    "unicode": "ල්‍ර"
+  },
+  {
+    "legacy": ",a",
+    "unicode": "ල්"
+  },
+  {
+    "legacy": ",d",
+    "unicode": "ලා"
+  },
+  {
+    "legacy": ",E",
+    "unicode": "ලෑ"
+  },
+  {
+    "legacy": ",s",
+    "unicode": "ලි"
+  },
+  {
+    "legacy": ",S",
+    "unicode": "ලී"
+  },
+  {
+    "legacy": "¨",
+    "unicode": "ලු"
+  },
+  {
+    "legacy": "Æ",
+    "unicode": "ලූ"
+  },
+  {
+    "legacy": ",D",
+    "unicode": "ලෘ"
+  },
+  {
+    "legacy": ",DD",
+    "unicode": "ලෲ"
+  },
+  {
+    "legacy": ",!",
+    "unicode": "ලෟ"
+  },
+  {
+    "legacy": ",!",
+    "unicode": "ලෳ"
+  },
+  {
+    "legacy": "f,",
+    "unicode": "ලෙ"
+  },
+  {
+    "legacy": "f,a",
+    "unicode": "ලේ"
+  },
+  {
+    "legacy": "ff,",
+    "unicode": "ලෛ"
+  },
+  {
+    "legacy": "f,d",
+    "unicode": "ලො"
+  },
+  {
+    "legacy": "f,da",
+    "unicode": "ලෝ"
+  },
+  {
+    "legacy": "f,!",
+    "unicode": "ලෞ"
+  },
+  {
+    "legacy": ",x",
+    "unicode": "ලං"
+  },
+  {
+    "legacy": ",#",
+    "unicode": "ලඃ"
+  },
+  {
+    "legacy": ",",
+    "unicode": "ල"
+  },
+  {
+    "legacy": "jHd",
+    "unicode": "ව්‍යා"
+  },
+  {
+    "legacy": "fjHd",
+    "unicode": "ව්‍යො"
+  },
+  {
+    "legacy": "fjHda",
+    "unicode": "ව්‍යෝ"
+  },
+  {
+    "legacy": "j%d",
+    "unicode": "ව්‍රා"
+  },
+  {
+    "legacy": "j%e",
+    "unicode": "ව්‍රැ"
+  },
+  {
+    "legacy": "j%E",
+    "unicode": "ව්‍රෑ"
+  },
+  {
+    "legacy": "ú%",
+    "unicode": "ව්‍රි"
+  },
+  {
+    "legacy": "ù%",
+    "unicode": "ව්‍රී"
+  },
+  {
+    "legacy": "fj%",
+    "unicode": "ව්‍රෙ"
+  },
+  {
+    "legacy": "fõ%",
+    "unicode": "ව්‍රේ"
+  },
+  {
+    "legacy": "fj%d",
+    "unicode": "ව්‍රො"
+  },
+  {
+    "legacy": "fj%da",
+    "unicode": "ව්‍රෝ"
+  },
+  {
+    "legacy": "ffj%",
+    "unicode": "ව්‍රෛ"
+  },
+  {
+    "legacy": "fj%!",
+    "unicode": "ව්‍රෞ"
+  },
+  {
+    "legacy": "j%x",
+    "unicode": "ව්‍රං"
+  },
+  {
+    "legacy": "j%#",
+    "unicode": "ව්‍රඃ"
+  },
+  {
+    "legacy": "jH",
+    "unicode": "ව්‍ය"
+  },
+  {
+    "legacy": "j%",
+    "unicode": "ව්‍ර"
+  },
+  {
+    "legacy": "õ",
+    "unicode": "ව්"
+  },
+  {
+    "legacy": "jd",
+    "unicode": "වා"
+  },
+  {
+    "legacy": "jE",
+    "unicode": "වෑ"
+  },
+  {
+    "legacy": "ú",
+    "unicode": "වි"
+  },
+  {
+    "legacy": "ù",
+    "unicode": "වී"
+  },
+  {
+    "legacy": "jq",
+    "unicode": "වු"
+  },
+  {
+    "legacy": "jQ",
+    "unicode": "වූ"
+  },
+  {
+    "legacy": "jD",
+    "unicode": "වෘ"
+  },
+  {
+    "legacy": "jDD",
+    "unicode": "වෲ"
+  },
+  {
+    "legacy": "j!",
+    "unicode": "වෟ"
+  },
+  {
+    "legacy": "j!",
+    "unicode": "වෳ"
+  },
+  {
+    "legacy": "fj",
+    "unicode": "වෙ"
+  },
+  {
+    "legacy": "fõ",
+    "unicode": "වේ"
+  },
+  {
+    "legacy": "ffj",
+    "unicode": "වෛ"
+  },
+  {
+    "legacy": "fjd",
+    "unicode": "වො"
+  },
+  {
+    "legacy": "fjda",
+    "unicode": "වෝ"
+  },
+  {
+    "legacy": "fj!",
+    "unicode": "වෞ"
+  },
+  {
+    "legacy": "jx",
+    "unicode": "වං"
+  },
+  {
+    "legacy": "j#",
+    "unicode": "වඃ"
+  },
+  {
+    "legacy": "j",
+    "unicode": "ව"
+  },
+  {
+    "legacy": "YHd",
+    "unicode": "ශ්‍යා"
+  },
+  {
+    "legacy": "fYHd",
+    "unicode": "ශ්‍යො"
+  },
+  {
+    "legacy": "fYHda",
+    "unicode": "ශ්‍යෝ"
+  },
+  {
+    "legacy": "Y%d",
+    "unicode": "ශ්‍රා"
+  },
+  {
+    "legacy": "Y%e",
+    "unicode": "ශ්‍රැ"
+  },
+  {
+    "legacy": "Y%E",
+    "unicode": "ශ්‍රෑ"
+  },
+  {
+    "legacy": "Y%s",
+    "unicode": "ශ්‍රි"
+  },
+  {
+    "legacy": "›",
+    "unicode": "ශ්‍රී"
+  },
+  {
+    "legacy": "fY%",
+    "unicode": "ශ්‍රෙ"
+  },
+  {
+    "legacy": "fY%a",
+    "unicode": "ශ්‍රේ"
+  },
+  {
+    "legacy": "fY%d",
+    "unicode": "ශ්‍රො"
+  },
+  {
+    "legacy": "fY%da",
+    "unicode": "ශ්‍රෝ"
+  },
+  {
+    "legacy": "ffY%",
+    "unicode": "ශ්‍රෛ"
+  },
+  {
+    "legacy": "fY%!",
+    "unicode": "ශ්‍රෞ"
+  },
+  {
+    "legacy": "Y%x",
+    "unicode": "ශ්‍රං"
+  },
+  {
+    "legacy": "Y%#",
+    "unicode": "ශ්‍රඃ"
+  },
+  {
+    "legacy": "YH",
+    "unicode": "ශ්‍ය"
+  },
+  {
+    "legacy": "Y%",
+    "unicode": "ශ්‍ර"
+  },
+  {
+    "legacy": "Ya",
+    "unicode": "ශ්"
+  },
+  {
+    "legacy": "Yd",
+    "unicode": "ශා"
+  },
+  {
+    "legacy": "YE",
+    "unicode": "ශෑ"
+  },
+  {
+    "legacy": "Ys",
+    "unicode": "ශි"
+  },
+  {
+    "legacy": "YS",
+    "unicode": "ශී"
+  },
+  {
+    "legacy": "Y=",
+    "unicode": "ශු"
+  },
+  {
+    "legacy": "Y+",
+    "unicode": "ශූ"
+  },
+  {
+    "legacy": "YD",
+    "unicode": "ශෘ"
+  },
+  {
+    "legacy": "YDD",
+    "unicode": "ශෲ"
+  },
+  {
+    "legacy": "Y!",
+    "unicode": "ශෟ"
+  },
+  {
+    "legacy": "Y!",
+    "unicode": "ශෳ"
+  },
+  {
+    "legacy": "fY",
+    "unicode": "ශෙ"
+  },
+  {
+    "legacy": "fYa",
+    "unicode": "ශේ"
+  },
+  {
+    "legacy": "ffY",
+    "unicode": "ශෛ"
+  },
+  {
+    "legacy": "fYd",
+    "unicode": "ශො"
+  },
+  {
+    "legacy": "fYda",
+    "unicode": "ශෝ"
+  },
+  {
+    "legacy": "fY!",
+    "unicode": "ශෞ"
+  },
+  {
+    "legacy": "Yx",
+    "unicode": "ශං"
+  },
+  {
+    "legacy": "Y#",
+    "unicode": "ශඃ"
+  },
+  {
+    "legacy": "Y",
+    "unicode": "ශ"
+  },
+  {
+    "legacy": "IHd",
+    "unicode": "ෂ්‍යා"
+  },
+  {
+    "legacy": "fIHd",
+    "unicode": "ෂ්‍යො"
+  },
+  {
+    "legacy": "fIHda",
+    "unicode": "ෂ්‍යෝ"
+  },
+  {
+    "legacy": "I%d",
+    "unicode": "ෂ්‍රා"
+  },
+  {
+    "legacy": "I%e",
+    "unicode": "ෂ්‍රැ"
+  },
+  {
+    "legacy": "I%E",
+    "unicode": "ෂ්‍රෑ"
+  },
+  {
+    "legacy": "I%s",
+    "unicode": "ෂ්‍රි"
+  },
+  {
+    "legacy": "I%S",
+    "unicode": "ෂ්‍රී"
+  },
+  {
+    "legacy": "fI%",
+    "unicode": "ෂ්‍රෙ"
+  },
+  {
+    "legacy": "fI%a",
+    "unicode": "ෂ්‍රේ"
+  },
+  {
+    "legacy": "fI%d",
+    "unicode": "ෂ්‍රො"
+  },
+  {
+    "legacy": "fI%da",
+    "unicode": "ෂ්‍රෝ"
+  },
+  {
+    "legacy": "ffI%",
+    "unicode": "ෂ්‍රෛ"
+  },
+  {
+    "legacy": "fI%!",
+    "unicode": "ෂ්‍රෞ"
+  },
+  {
+    "legacy": "I%x",
+    "unicode": "ෂ්‍රං"
+  },
+  {
+    "legacy": "I%#",
+    "unicode": "ෂ්‍රඃ"
+  },
+  {
+    "legacy": "IH",
+    "unicode": "ෂ්‍ය"
+  },
+  {
+    "legacy": "I%",
+    "unicode": "ෂ්‍ර"
+  },
+  {
+    "legacy": "Ia",
+    "unicode": "ෂ්"
+  },
+  {
+    "legacy": "Id",
+    "unicode": "ෂා"
+  },
+  {
+    "legacy": "IE",
+    "unicode": "ෂෑ"
+  },
+  {
+    "legacy": "Is",
+    "unicode": "ෂි"
+  },
+  {
+    "legacy": "IS",
+    "unicode": "ෂී"
+  },
+  {
+    "legacy": "Iq",
+    "unicode": "ෂු"
+  },
+  {
+    "legacy": "IQ",
+    "unicode": "ෂූ"
+  },
+  {
+    "legacy": "ID",
+    "unicode": "ෂෘ"
+  },
+  {
+    "legacy": "IDD",
+    "unicode": "ෂෲ"
+  },
+  {
+    "legacy": "I!",
+    "unicode": "ෂෟ"
+  },
+  {
+    "legacy": "I!",
+    "unicode": "ෂෳ"
+  },
+  {
+    "legacy": "fI",
+    "unicode": "ෂෙ"
+  },
+  {
+    "legacy": "fIa",
+    "unicode": "ෂේ"
+  },
+  {
+    "legacy": "ffI",
+    "unicode": "ෂෛ"
+  },
+  {
+    "legacy": "fId",
+    "unicode": "ෂො"
+  },
+  {
+    "legacy": "fIda",
+    "unicode": "ෂෝ"
+  },
+  {
+    "legacy": "fI!",
+    "unicode": "ෂෞ"
+  },
+  {
+    "legacy": "Ix",
+    "unicode": "ෂං"
+  },
+  {
+    "legacy": "I#",
+    "unicode": "ෂඃ"
+  },
+  {
+    "legacy": "I",
+    "unicode": "ෂ"
+  },
+  {
+    "legacy": "iHd",
+    "unicode": "ස්‍යා"
+  },
+  {
+    "legacy": "fiHd",
+    "unicode": "ස්‍යො"
+  },
+  {
+    "legacy": "fiHda",
+    "unicode": "ස්‍යෝ"
+  },
+  {
+    "legacy": "i%d",
+    "unicode": "ස්‍රා"
+  },
+  {
+    "legacy": "i%e",
+    "unicode": "ස්‍රැ"
+  },
+  {
+    "legacy": "i%E",
+    "unicode": "ස්‍රෑ"
+  },
+  {
+    "legacy": "i%s",
+    "unicode": "ස්‍රි"
+  },
+  {
+    "legacy": "i%S",
+    "unicode": "ස්‍රී"
+  },
+  {
+    "legacy": "fi%",
+    "unicode": "ස්‍රෙ"
+  },
+  {
+    "legacy": "fi%a",
+    "unicode": "ස්‍රේ"
+  },
+  {
+    "legacy": "fi%d",
+    "unicode": "ස්‍රො"
+  },
+  {
+    "legacy": "fi%da",
+    "unicode": "ස්‍රෝ"
+  },
+  {
+    "legacy": "ffi%",
+    "unicode": "ස්‍රෛ"
+  },
+  {
+    "legacy": "fi%!",
+    "unicode": "ස්‍රෞ"
+  },
+  {
+    "legacy": "i%x",
+    "unicode": "ස්‍රං"
+  },
+  {
+    "legacy": "i%#",
+    "unicode": "ස්‍රඃ"
+  },
+  {
+    "legacy": "iH",
+    "unicode": "ස්‍ය"
+  },
+  {
+    "legacy": "i%",
+    "unicode": "ස්‍ර"
+  },
+  {
+    "legacy": "ia",
+    "unicode": "ස්"
+  },
+  {
+    "legacy": "id",
+    "unicode": "සා"
+  },
+  {
+    "legacy": "iE",
+    "unicode": "සෑ"
+  },
+  {
+    "legacy": "is",
+    "unicode": "සි"
+  },
+  {
+    "legacy": "iS",
+    "unicode": "සී"
+  },
+  {
+    "legacy": "iq",
+    "unicode": "සු"
+  },
+  {
+    "legacy": "iQ",
+    "unicode": "සූ"
+  },
+  {
+    "legacy": "iD",
+    "unicode": "සෘ"
+  },
+  {
+    "legacy": "iDD",
+    "unicode": "සෲ"
+  },
+  {
+    "legacy": "i!",
+    "unicode": "සෟ"
+  },
+  {
+    "legacy": "i!",
+    "unicode": "සෳ"
+  },
+  {
+    "legacy": "fi",
+    "unicode": "සෙ"
+  },
+  {
+    "legacy": "fia",
+    "unicode": "සේ"
+  },
+  {
+    "legacy": "ffi",
+    "unicode": "සෛ"
+  },
+  {
+    "legacy": "fid",
+    "unicode": "සො"
+  },
+  {
+    "legacy": "fida",
+    "unicode": "සෝ"
+  },
+  {
+    "legacy": "fi!",
+    "unicode": "සෞ"
+  },
+  {
+    "legacy": "ix",
+    "unicode": "සං"
+  },
+  {
+    "legacy": "i#",
+    "unicode": "සඃ"
+  },
+  {
+    "legacy": "i",
+    "unicode": "ස"
+  },
+  {
+    "legacy": "yHd",
+    "unicode": "හ්‍යා"
+  },
+  {
+    "legacy": "fyHd",
+    "unicode": "හ්‍යො"
+  },
+  {
+    "legacy": "fyHda",
+    "unicode": "හ්‍යෝ"
+  },
+  {
+    "legacy": "y%d",
+    "unicode": "හ්‍රා"
+  },
+  {
+    "legacy": "y%e",
+    "unicode": "හ්‍රැ"
+  },
+  {
+    "legacy": "y%E",
+    "unicode": "හ්‍රෑ"
+  },
+  {
+    "legacy": "y%s",
+    "unicode": "හ්‍රි"
+  },
+  {
+    "legacy": "y%S",
+    "unicode": "හ්‍රී"
+  },
+  {
+    "legacy": "fy%",
+    "unicode": "හ්‍රෙ"
+  },
+  {
+    "legacy": "fy%a",
+    "unicode": "හ්‍රේ"
+  },
+  {
+    "legacy": "fy%d",
+    "unicode": "හ්‍රො"
+  },
+  {
+    "legacy": "fy%da",
+    "unicode": "හ්‍රෝ"
+  },
+  {
+    "legacy": "ffy%",
+    "unicode": "හ්‍රෛ"
+  },
+  {
+    "legacy": "fy%!",
+    "unicode": "හ්‍රෞ"
+  },
+  {
+    "legacy": "y%x",
+    "unicode": "හ්‍රං"
+  },
+  {
+    "legacy": "y%#",
+    "unicode": "හ්‍රඃ"
+  },
+  {
+    "legacy": "yH",
+    "unicode": "හ්‍ය"
+  },
+  {
+    "legacy": "y%",
+    "unicode": "හ්‍ර"
+  },
+  {
+    "legacy": "ya",
+    "unicode": "හ්"
+  },
+  {
+    "legacy": "yd",
+    "unicode": "හා"
+  },
+  {
+    "legacy": "yE",
+    "unicode": "හෑ"
+  },
+  {
+    "legacy": "ys",
+    "unicode": "හි"
+  },
+  {
+    "legacy": "yS",
+    "unicode": "හී"
+  },
+  {
+    "legacy": "yq",
+    "unicode": "හු"
+  },
+  {
+    "legacy": "yQ",
+    "unicode": "හූ"
+  },
+  {
+    "legacy": "yD",
+    "unicode": "හෘ"
+  },
+  {
+    "legacy": "yDD",
+    "unicode": "හෲ"
+  },
+  {
+    "legacy": "y!",
+    "unicode": "හෟ"
+  },
+  {
+    "legacy": "y!",
+    "unicode": "හෳ"
+  },
+  {
+    "legacy": "fy",
+    "unicode": "හෙ"
+  },
+  {
+    "legacy": "fya",
+    "unicode": "හේ"
+  },
+  {
+    "legacy": "ffy",
+    "unicode": "හෛ"
+  },
+  {
+    "legacy": "fyd",
+    "unicode": "හො"
+  },
+  {
+    "legacy": "fyda",
+    "unicode": "හෝ"
+  },
+  {
+    "legacy": "fy!",
+    "unicode": "හෞ"
+  },
+  {
+    "legacy": "yx",
+    "unicode": "හං"
+  },
+  {
+    "legacy": "y#",
+    "unicode": "හඃ"
+  },
+  {
+    "legacy": "y",
+    "unicode": "හ"
+  },
+  {
+    "legacy": "<Hd",
+    "unicode": "ළ්‍යා"
+  },
+  {
+    "legacy": "f<Hd",
+    "unicode": "ළ්‍යො"
+  },
+  {
+    "legacy": "f<Hda",
+    "unicode": "ළ්‍යෝ"
+  },
+  {
+    "legacy": "<%d",
+    "unicode": "ළ්‍රා"
+  },
+  {
+    "legacy": "<%e",
+    "unicode": "ළ්‍රැ"
+  },
+  {
+    "legacy": "<%E",
+    "unicode": "ළ්‍රෑ"
+  },
+  {
+    "legacy": "<%s",
+    "unicode": "ළ්‍රි"
+  },
+  {
+    "legacy": "<%S",
+    "unicode": "ළ්‍රී"
+  },
+  {
+    "legacy": "f<%",
+    "unicode": "ළ්‍රෙ"
+  },
+  {
+    "legacy": "f<%a",
+    "unicode": "ළ්‍රේ"
+  },
+  {
+    "legacy": "f<%d",
+    "unicode": "ළ්‍රො"
+  },
+  {
+    "legacy": "f<%da",
+    "unicode": "ළ්‍රෝ"
+  },
+  {
+    "legacy": "ff<%",
+    "unicode": "ළ්‍රෛ"
+  },
+  {
+    "legacy": "f<%!",
+    "unicode": "ළ්‍රෞ"
+  },
+  {
+    "legacy": "<%x",
+    "unicode": "ළ්‍රං"
+  },
+  {
+    "legacy": "<%#",
+    "unicode": "ළ්‍රඃ"
+  },
+  {
+    "legacy": "<H",
+    "unicode": "ළ්‍ය"
+  },
+  {
+    "legacy": "<%",
+    "unicode": "ළ්‍ර"
+  },
+  {
+    "legacy": "<a",
+    "unicode": "ළ්"
+  },
+  {
+    "legacy": "<d",
+    "unicode": "ළා"
+  },
+  {
+    "legacy": "<E",
+    "unicode": "ළෑ"
+  },
+  {
+    "legacy": "<s",
+    "unicode": "ළි"
+  },
+  {
+    "legacy": "<S",
+    "unicode": "ළී"
+  },
+  {
+    "legacy": "¿",
+    "unicode": "ළු"
+  },
+  {
+    "legacy": "¿E",
+    "unicode": "ළූ"
+  },
+  {
+    "legacy": "<D",
+    "unicode": "ළෘ"
+  },
+  {
+    "legacy": "<DD",
+    "unicode": "ළෲ"
+  },
+  {
+    "legacy": "<!",
+    "unicode": "ළෟ"
+  },
+  {
+    "legacy": "<!",
+    "unicode": "ළෳ"
+  },
+  {
+    "legacy": "f<",
+    "unicode": "ළෙ"
+  },
+  {
+    "legacy": "f<a",
+    "unicode": "ළේ"
+  },
+  {
+    "legacy": "ff<",
+    "unicode": "ළෛ"
+  },
+  {
+    "legacy": "f<d",
+    "unicode": "ළො"
+  },
+  {
+    "legacy": "f<da",
+    "unicode": "ළෝ"
+  },
+  {
+    "legacy": "f<!",
+    "unicode": "ළෞ"
+  },
+  {
+    "legacy": "<x",
+    "unicode": "ළං"
+  },
+  {
+    "legacy": "<#",
+    "unicode": "ළඃ"
+  },
+  {
+    "legacy": "<",
+    "unicode": "ළ"
+  },
+  {
+    "legacy": "*Hd",
+    "unicode": "ෆ්‍යා"
+  },
+  {
+    "legacy": "f*Hd",
+    "unicode": "ෆ්‍යො"
+  },
+  {
+    "legacy": "f*Hda",
+    "unicode": "ෆ්‍යෝ"
+  },
+  {
+    "legacy": "*%d",
+    "unicode": "ෆ්‍රා"
+  },
+  {
+    "legacy": "*%e",
+    "unicode": "ෆ්‍රැ"
+  },
+  {
+    "legacy": "*%E",
+    "unicode": "ෆ්‍රෑ"
+  },
+  {
+    "legacy": "*%s",
+    "unicode": "ෆ්‍රි"
+  },
+  {
+    "legacy": "*%S",
+    "unicode": "ෆ්‍රී"
+  },
+  {
+    "legacy": "f*%",
+    "unicode": "ෆ්‍රෙ"
+  },
+  {
+    "legacy": "f*%a",
+    "unicode": "ෆ්‍රේ"
+  },
+  {
+    "legacy": "f*%d",
+    "unicode": "ෆ්‍රො"
+  },
+  {
+    "legacy": "f*%da",
+    "unicode": "ෆ්‍රෝ"
+  },
+  {
+    "legacy": "ff*%",
+    "unicode": "ෆ්‍රෛ"
+  },
+  {
+    "legacy": "f*%!",
+    "unicode": "ෆ්‍රෞ"
+  },
+  {
+    "legacy": "*%x",
+    "unicode": "ෆ්‍රං"
+  },
+  {
+    "legacy": "*%#",
+    "unicode": "ෆ්‍රඃ"
+  },
+  {
+    "legacy": "*H",
+    "unicode": "ෆ්‍ය"
+  },
+  {
+    "legacy": "*%",
+    "unicode": "ෆ්‍ර"
+  },
+  {
+    "legacy": "*a",
+    "unicode": "ෆ්"
+  },
+  {
+    "legacy": "*d",
+    "unicode": "ෆා"
+  },
+  {
+    "legacy": "*E",
+    "unicode": "ෆෑ"
+  },
+  {
+    "legacy": "*s",
+    "unicode": "ෆි"
+  },
+  {
+    "legacy": "*S",
+    "unicode": "ෆී"
+  },
+  {
+    "legacy": "*q",
+    "unicode": "ෆු"
+  },
+  {
+    "legacy": "*Q",
+    "unicode": "ෆූ"
+  },
+  {
+    "legacy": "*D",
+    "unicode": "ෆෘ"
+  },
+  {
+    "legacy": "*DD",
+    "unicode": "ෆෲ"
+  },
+  {
+    "legacy": "*!",
+    "unicode": "ෆෟ"
+  },
+  {
+    "legacy": "*!",
+    "unicode": "ෆෳ"
+  },
+  {
+    "legacy": "f*",
+    "unicode": "ෆෙ"
+  },
+  {
+    "legacy": "f*a",
+    "unicode": "ෆේ"
+  },
+  {
+    "legacy": "ff*",
+    "unicode": "ෆෛ"
+  },
+  {
+    "legacy": "f*d",
+    "unicode": "ෆො"
+  },
+  {
+    "legacy": "f*da",
+    "unicode": "ෆෝ"
+  },
+  {
+    "legacy": "f*!",
+    "unicode": "ෆෞ"
+  },
+  {
+    "legacy": "*x",
+    "unicode": "ෆං"
+  },
+  {
+    "legacy": "*#",
+    "unicode": "ෆඃ"
+  },
+  {
+    "legacy": "*",
+    "unicode": "ෆ"
+  },
+  {
+    "legacy": "{Hd",
+    "unicode": "ඥ්‍යා"
+  },
+  {
+    "legacy": "f{Hd",
+    "unicode": "ඥ්‍යො"
+  },
+  {
+    "legacy": "f{Hda",
+    "unicode": "ඥ්‍යෝ"
+  },
+  {
+    "legacy": "{%d",
+    "unicode": "ඥ්‍රා"
+  },
+  {
+    "legacy": "{%e",
+    "unicode": "ඥ්‍රැ"
+  },
+  {
+    "legacy": "{%E",
+    "unicode": "ඥ්‍රෑ"
+  },
+  {
+    "legacy": "{%s",
+    "unicode": "ඥ්‍රි"
+  },
+  {
+    "legacy": "{%S",
+    "unicode": "ඥ්‍රී"
+  },
+  {
+    "legacy": "f{%",
+    "unicode": "ඥ්‍රෙ"
+  },
+  {
+    "legacy": "f{%a",
+    "unicode": "ඥ්‍රේ"
+  },
+  {
+    "legacy": "f{%d",
+    "unicode": "ඥ්‍රො"
+  },
+  {
+    "legacy": "f{%da",
+    "unicode": "ඥ්‍රෝ"
+  },
+  {
+    "legacy": "ff{%",
+    "unicode": "ඥ්‍රෛ"
+  },
+  {
+    "legacy": "f{%!",
+    "unicode": "ඥ්‍රෞ"
+  },
+  {
+    "legacy": "{%x",
+    "unicode": "ඥ්‍රං"
+  },
+  {
+    "legacy": "{%#",
+    "unicode": "ඥ්‍රඃ"
+  },
+  {
+    "legacy": "{H",
+    "unicode": "ඥ්‍ය"
+  },
+  {
+    "legacy": "{%",
+    "unicode": "ඥ්‍ර"
+  },
+  {
+    "legacy": "{a",
+    "unicode": "ඥ්"
+  },
+  {
+    "legacy": "{d",
+    "unicode": "ඥා"
+  },
+  {
+    "legacy": "{E",
+    "unicode": "ඥෑ"
+  },
+  {
+    "legacy": "{s",
+    "unicode": "ඥි"
+  },
+  {
+    "legacy": "{S",
+    "unicode": "ඥී"
+  },
+  {
+    "legacy": "{q",
+    "unicode": "ඥු"
+  },
+  {
+    "legacy": "{Q",
+    "unicode": "ඥූ"
+  },
+  {
+    "legacy": "{D",
+    "unicode": "ඥෘ"
+  },
+  {
+    "legacy": "{DD",
+    "unicode": "ඥෲ"
+  },
+  {
+    "legacy": "{!",
+    "unicode": "ඥෟ"
+  },
+  {
+    "legacy": "{!",
+    "unicode": "ඥෳ"
+  },
+  {
+    "legacy": "f{",
+    "unicode": "ඥෙ"
+  },
+  {
+    "legacy": "f{a",
+    "unicode": "ඥේ"
+  },
+  {
+    "legacy": "ff{",
+    "unicode": "ඥෛ"
+  },
+  {
+    "legacy": "f{d",
+    "unicode": "ඥො"
+  },
+  {
+    "legacy": "f{da",
+    "unicode": "ඥෝ"
+  },
+  {
+    "legacy": "f{!",
+    "unicode": "ඥෞ"
+  },
+  {
+    "legacy": "{x",
+    "unicode": "ඥං"
+  },
+  {
+    "legacy": "{#",
+    "unicode": "ඥඃ"
+  },
+  {
+    "legacy": "{",
+    "unicode": "ඥ"
+  },
+  {
+    "legacy": "a‍hd",
+    "unicode": "්‍යා"
+  },
+  {
+    "legacy": "a‍fhd",
+    "unicode": "්‍යො"
+  },
+  {
+    "legacy": "a‍fhda",
+    "unicode": "්‍යෝ"
+  },
+  {
+    "legacy": "%d",
+    "unicode": "්‍රා"
+  },
+  {
+    "legacy": "%e",
+    "unicode": "්‍රැ"
+  },
+  {
+    "legacy": "%E",
+    "unicode": "්‍රෑ"
+  },
+  {
+    "legacy": "%s",
+    "unicode": "්‍රි"
+  },
+  {
+    "legacy": "%S",
+    "unicode": "්‍රී"
+  },
+  {
+    "legacy": "a‍fr",
+    "unicode": "්‍රෙ"
+  },
+  {
+    "legacy": "af¾",
+    "unicode": "්‍රේ"
+  },
+  {
+    "legacy": "a‍frd",
+    "unicode": "්‍රො"
+  },
+  {
+    "legacy": "a‍frda",
+    "unicode": "්‍රෝ"
+  },
+  {
+    "legacy": "a‍ffr",
+    "unicode": "්‍රෛ"
+  },
+  {
+    "legacy": "a‍fr!",
+    "unicode": "්‍රෞ"
+  },
+  {
+    "legacy": "%x",
+    "unicode": "්‍රං"
+  },
+  {
+    "legacy": "%#",
+    "unicode": "්‍රඃ"
+  },
+  {
+    "legacy": "a‍h",
+    "unicode": "්‍ය"
+  },
+  {
+    "legacy": "%",
+    "unicode": "්‍ර"
+  },
+  {
+    "legacy": "a",
+    "unicode": "්"
+  },
+  {
+    "legacy": "d",
+    "unicode": "ා"
+  },
+  {
+    "legacy": "E",
+    "unicode": "ෑ"
+  },
+  {
+    "legacy": "s",
+    "unicode": "ි"
+  },
+  {
+    "legacy": "S",
+    "unicode": "ී"
+  },
+  {
+    "legacy": "q",
+    "unicode": "ු"
+  },
+  {
+    "legacy": "Q",
+    "unicode": "ූ"
+  },
+  {
+    "legacy": "D",
+    "unicode": "ෘ"
+  },
+  {
+    "legacy": "DD",
+    "unicode": "ෲ"
+  },
+  {
+    "legacy": "!",
+    "unicode": "ෟ"
+  },
+  {
+    "legacy": "!",
+    "unicode": "ෳ"
+  },
+  {
+    "legacy": "ෙ",
+    "unicode": "ෙ"
+  },
+  {
+    "legacy": "ේ",
+    "unicode": "ේ"
+  },
+  {
+    "legacy": "ෛ",
+    "unicode": "ෛ"
+  },
+  {
+    "legacy": "ො",
+    "unicode": "ො"
+  },
+  {
+    "legacy": "ෝ",
+    "unicode": "ෝ"
+  },
+  {
+    "legacy": "ෞ",
+    "unicode": "ෞ"
+  },
+  {
+    "legacy": "x",
+    "unicode": "ං"
+  },
+  {
+    "legacy": "#",
+    "unicode": "ඃ"
+  },
+  {
+    "legacy": "e",
+    "unicode": "ැ"
+  }
+]

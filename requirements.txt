@@ -1,0 +1,5 @@
+chromadb
+sentence_transformers
+accelerate
+pypdf
+uvicorn
