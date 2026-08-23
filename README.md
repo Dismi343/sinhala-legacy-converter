@@ -36,7 +36,7 @@ PY
 - `extract_pdf.py` exposes `extract_text_from_pdf(pdf_path)` which returns the extracted text.
 - `converting_extracted_text.py` exposes `fm_abhaya_to_unicode(text)` and `convert_file(input_path, output_path)`.
 
-- I someone want the output in to a text file, use the convert_file function which will return the output as a text file. current implementation linked to extract_and_convert_pdf function which prints the output sinhala unicode. 
+- If someone wants the output in to a text file, use the convert_file function which will return the output as a text file. current implementation linked to extract_and_convert_pdf function which prints the output sinhala unicode. 
 - change the number of pages to be converted according to your need
 
 ```bash
